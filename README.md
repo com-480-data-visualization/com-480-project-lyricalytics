@@ -16,7 +16,7 @@ Please find our Milestone 1 pdf [here](Milestone%201/Lyricalytics.pdf). We have 
 
 ## Milestone 2 (18th April, 5pm)
 
-Please find our [Milestone 2 pdf here](Milestone%202/Lyricalytics%20-%20Milestone%202.pdf), and our functional project prototype (WIP website) [here](Milestone%202/lyricalytics). Due to Github's file size restrictions (and the com-480 organization being over its data quota for Git LFS, rendering it unusable), we had to zip the file `merged_file.csv` into `merged_file.csv.zip`. **YOU MUST UNZIP IT BEFORE TRYING TO RUN THE WEBSITE LOCALLY OR 2 VISUALIZATIONS WILL BE UNABLE TO RENDER!**
+Please find our [Milestone 2 pdf here](Milestone%202/Lyricalytics%20-%20Milestone%202.pdf), and our [functional project prototype (WIP website) here](Milestone%202/lyricalytics). Due to Github's file size restrictions (and the com-480 organization being over its data quota for Git LFS, rendering it unusable), we had to zip the file `merged_file.csv` into `merged_file.csv.zip`. **YOU MUST UNZIP IT BEFORE TRYING TO RUN THE WEBSITE LOCALLY OR 2 VISUALIZATIONS WILL BE UNABLE TO RENDER!**
 
 
 ## Milestone 3 (30th May, 5pm)
