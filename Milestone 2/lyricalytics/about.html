@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Lyricalitycs</title>
+
+  <link href="assets/img/favicon.ico" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet"> -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <!-- <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap" rel="stylesheet"> -->
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Proza+Libre:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+
+  <!-- CSS -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/css/main.css" rel="stylesheet">
+</head>
+
+<body class="about-page">
+
+  <!-- Header and Nav -->
+  <header>
+    <a href="index.html" class="logo">
+      <img src="assets/img/logo.png" alt="">
+      <h1 class="sitename">Lyricalitycs</h1>
+    </a>
+    <a class="cta-btn" href="index.html">Visualization</a>
+  </header>
+
+  <main class="main">
+
+
+    <!-- About -->
+     <section id="data-description" class="about">
+
+      <div class="container">
+
+        <div class="row gy-4">
+            <h3>Understanding our data</h3>
+            
+            <h5>Data Sources</h5>
+            <p>For this project, we use three Kaggle datasets to analyze the relationship between musical success, song genre, and lyrical content:</p>
+              <ul>
+                  <li><a href="https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset">Spotify Tracks Dataset</a> — Contains detailed metadata on 89,741 Spotify songs, including features such as tempo, danceability, energy, and associated genres (e.g., pop, acoustic, rock).</li>
+                  <li><a href="https://www.kaggle.com/datasets/bwandowando/spotify-songs-with-attributes-and-lyrics">960K Spotify Songs With Lyrics Data</a> — Provides lyrics for 955,320 Spotify songs, offering the textual data needed for sentiment and emotion analysis.</li>
+                  <li><a href="https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019/data">Top Hits Spotify from 2000-2019</a> — Lists 2,000 top-charting songs over two decades, helping us link lyrical emotions to commercial success.</li>
+              </ul>
+
+              <h5>Data Unification</h5>
+              <p>When selecting datasets, we ensured all were based on Spotify data. The <em>Spotify Tracks Dataset</em> and <em>960K Spotify Songs With Lyrics Data</em> were matched directly using track IDs. <em>Top Hits Spotify from 2000-2019</em> did not include track IDs, so we matched songs by carefully cleaning and aligning artist names, song titles, and track features.</p>
+
+              <p>After merging, our final dataset consists of <strong>80,274 songs with matching lyrics</strong>, including <strong>1,868 top hits</strong>, and covering <strong>114 unique genres</strong>. There are no missing or null values.</p>
+
+              <h5>Emotion Analysis</h5>
+              <p>For emotional analysis, we focused on <strong>songs with English lyrics</strong>. To achieve this, we leveraged Google's language-detection (using the <a href="https://pypi.org/project/langdetect/">langdetect library</a>), and kept only songs identified as English. While most songs were fully in English, manual inspection revealed some multilingual songs with English hooks. We decided to keep them, after conducting another analysis, focusing on songs mixing Korean and English (done by a native Korean speaker), showed the lyrics and emotions be aligned between the two languages.</p>
+
+              <p>We classified emotions using the HuggingFace model <a href="https://huggingface.co/SamLowe/roberta-base-go_emotions">SamLowe/roberta-base-go_emotions</a>, which predicts <strong>28 fine-grained emotion categories</strong> such as admiration, amusement, anger, joy, sadness, and surprise. We excluded the "neutral" category from our main analysis to focus on more emotionally expressive content.</p>
+
+              <p>To check the model's validity, we manually evaluated a sample of 100 songs and found an <strong>81% human agreement rate</strong>, confirming the model's generally reliable performance for our purposes.</p>
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+
+    <!-- Team -->
+     <section id="team" class="about">
+
+      <div class="container">
+
+        <div class="row gy-4">
+            <h3>The Team</h3>
+            <p>This work was done by Beatriz Borges, Kyuhee Kim, and Leonardo Tredici.</p> 
+            <p>You can find our code and research progression on <a href="https://github.com/com-480-data-visualization/com-480-project-lyricalytics">github</a>.</p>
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+
+  </main>
+
+  
+  <footer id="footer" class="footer dark-background">
+    <div class="container footer-top">
+      <p>Lyricalitycs</p>
+    </div>
+  </footer>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+
+  <!-- Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>

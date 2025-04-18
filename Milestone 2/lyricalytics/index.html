@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Lyricalitycs</title>
+
+  <link href="assets/img/favicon.ico" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Proza+Libre:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+
+  <!-- CSS -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/css/main.css" rel="stylesheet">
+</head>
+
+<body class="landing-page">
+
+  <!-- Header and Nav -->
+  <header>
+    <a href="index.html" class="logo">
+      <img src="assets/img/logo.png" alt="">
+      <h1 class="sitename">Lyricalitycs</h1>
+    </a>
+    <a class="cta-btn" href="about.html">About</a>
+  </header>
+
+  <main class="main">
+
+    <!-- Landing Hero -->
+    <section class="hero">
+      <div class="hero-inner">
+          <div class="inner cover">
+            <h1 class="cover-heading"><strong>What is the impact of song lyrics' sentiments?</strong></h1>
+            <h1 class="cover-heading">Do they affect a song's popularity and characteristics?</h1>
+            <p class="lead">We set out to find the answer, and discovered the significant link between the two!</p>
+            <p class="lead">
+              <a href="#overview" class="btn btn-lg btn-default">Let us show you how</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Main Viz - Emotion Space Overview -->
+     <section id="overview" class="about section">
+      <div class="container">
+        <div class="row gy-4">
+            <h3>Understanding the emotion space</h3>
+            <p>For each visualization, we will have an image-specific introduction for the final submission (milestone 3). This visualization is our most ambitious one, so we decided to first do the other four so we could then dedicate ourselves in full to this one. As such, we include only a sketch of what a 2D-version might look like. For futher details, please check the project goal description document.</p>
+
+            <div class="">
+              <img src="assets/img/visualizations/overview.jpg" alt="" class="full-width">
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Radar Plot - Emotions + Song Features -->
+     <section class="about section">
+      <div class="container">
+        <div class="row gy-4">
+            <h3>How do lyrics' emotions correlate with song features?</h3>
+            <p>For our second visualization, we are looking at mean song features by emotion category. Are there clear observable differences between them? We will polish our current rough implementation to improve user friendliness.</p>
+
+            <iframe class="col-sm-12 col-lg-12"
+              id="radar-plot"
+              title="Interactive Radar Plot: Mean by Emotion"
+              width="100%"
+              height="660px"
+              src="/iframes/radar_final.html">
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Word Cloud - Emotions + Lyric Words -->
+     <section class="about section">
+      <div class="container">
+        <div class="row gy-4">
+            <h3>How is each emotion reflected in lyrics' word choices?</h3>
+            <p>Here, we have a word cloud for each emotion. Our main extra idea for it is making the visualization more interactive, starting with the most common words across all songs, and allow users to include or exclude emotion categories dynamically. Other ideas include: (1) enable comparison by displaying multiple word clouds side-by-side (e.g., joy vs. sadness); and (2) create word clouds based on noun-adjective pairs to better capture emotional nuances (as seen in Text Viz lecture, slide 22).
+            </p>
+
+            <iframe class="col-sm-12 col-lg-12"
+              id="word-cloud"
+              title="Emotion Word Cloud"
+              width="100%"
+              height="725px"
+              src="/iframes/wordcloud_final.html">
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Scatter Violing - Top Hit + Song Features -->
+     <section class="about section">
+      <div class="container">
+        <div class="row gy-4">
+            <h3>Do popular songs have distinct song features?</h3>
+            <p>A scatter-enhanced violin plot capturing how song features relate to popularity. Here, we are presenting all features in a scrolling manner, but our final implementation will not have this behavior. We will either have more interactivity whereby we limit the number of plots on display and the user chooses which features to visualize, or, we will have a single unified view, which is our first "stretch" goal for this visualization.</p>
+
+            <p>Our extra ideas are: (1) having a single unified view, whereby we explore all features on a single plot, rather than our current 8 separate ones (this might require rethinking the y-axis, normalizing it to 1 similarly to the radar plot); (2) finding a better way to represent top-hits and non-top-hits to improve readability, maybe by replacing the violin plot by a full scatter plot (with some x-axis variance so a similar shape will be retained); and (3) exploring whether there are outlying emotions, and if so, visualize their feature correlation using a third color.</p>
+
+            <iframe class="col-sm-12 col-lg-12"
+              id="violin-plot"
+              title="Violin Plots with Embedded Top Hits"
+              width="100%"
+              height="600px"
+              src="/iframes/violin_final.html">
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Interactive Bar - Genre + Popularity + Emotions -->
+     <section class="about section">
+      <div class="container">
+        <div class="row gy-4">
+            <h3>Understanding the emotion space</h3>
+            <p>Our final visualization is a stacked bar chart visualization for genre and lyrical sentiments. It explores the distribution of emotions across genres, offering users an interactive and comparative view of sentiment trends.</p>
+            <p>Our extra ideas are: (1) improving genre selection with dropdown menus or grouped interfaces; (2) displaying the percentage of top hits below each bar, with a brief explanation; (3) switching the y-axis to percentages to address large count differences; (4) showing emotion names and counts within each bar layer for clarity (if the bar is too small, try to make it visible on hover).
+            </p>
+
+            <div id="stackbar-checkbox"></div>
+            <div id="stackbar-chart"></div>
+            <div id="stackbar-legend"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  
+  <footer id="footer" class="footer dark-background">
+    <div class="container footer-top">
+      <p>Lyricalitycs</p>
+    </div>
+  </footer>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+
+  <!-- Vendor JS Visualization Files -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+
+  <!-- Main JS File -->
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/radar.js"></script>
+  <script type="module">
+    import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+    import define from "/assets/js/stackbar.js";
+  
+    new Runtime().module(define, name => {
+      if (name === "viewof genreSelection") return new Inspector(document.querySelector("#stackbar-checkbox"));
+      if (name === "chart") return new Inspector(document.querySelector("#stackbar-chart"));
+      if (name === "legend") return new Inspector(document.querySelector("#stackbar-legend"));
+    });
+  </script>
+
+</body>
+
+</html>

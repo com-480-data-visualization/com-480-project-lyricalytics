@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Radar Plot: Mean by Emotion</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        label {display: inline-block; padding: 2px;}
+        #checkbox-container {padding: 5px;}
+      </style>
+</head>
+<body>
+
+    <!-- <h3>Select Emotions to Display:</h3> -->
+    <div id="checkbox-container"></div>
+
+    <div id="plotly-chart" style="width: 100%; height: 100%;"></div>
+
+    <script>
+        const spotifyColumns = [
+            'popularity', 'duration_ms', 'danceability', 'energy', 'key', 'loudness', 
+            'mode', 'speechiness', 'acousticness', 'instrumentalness', 'liveness', 
+            'valence', 'tempo', 'time_signature'
+        ];
+
+        let allSongsData = [];
+        let allMean = [];
+        let normalizedAllMean = [];
+
+        d3.csv("/assets/data/merged_file.csv").then(function(data) {
+            allSongsData = data;
+            allMean = calculateMeanValues(data);
+            normalizedAllMean = normalizeValues(allMean, data);
+
+            createEmotionCheckboxes(data);
+
+            // Initial plot with all songs
+            plotRadarChart([{
+                type: 'scatterpolar',
+                r: normalizedAllMean,
+                theta: spotifyColumns,
+                fill: 'toself',
+                name: 'All Songs',
+                line: { color: 'black' }
+            }]);
+        }).catch(function(error) {
+            console.error("Error loading the CSV: ", error);
+        });
+
+        function calculateMeanValues(songs) {
+            return spotifyColumns.map(col => {
+                const sum = songs.reduce((acc, song) => acc + (parseFloat(song[col]) || 0), 0);
+                return songs.length ? sum / songs.length : 0;
+            });
+        }
+
+        function normalizeValues(values, songs) {
+            return values.map((value, index) => {
+                const featureValues = songs.map(song => parseFloat(song[spotifyColumns[index]]) || 0);
+                const min = Math.min(...featureValues);
+                const max = Math.max(...featureValues);
+                return max === min ? 0.5 : (value - min) / (max - min);
+            });
+        }
+
+        function createEmotionCheckboxes(data) {
+            const emotions = [...new Set(data.map(d => d.top_emotion))];
+            const container = document.getElementById('checkbox-container');
+
+            emotions.forEach(emotion => {
+                const label = document.createElement('label');
+                const checkbox = document.createElement('input');
+                checkbox.type = 'checkbox';
+                checkbox.value = emotion;
+                checkbox.addEventListener('change', updateRadarChart);
+                label.appendChild(checkbox);
+                label.appendChild(document.createTextNode(" " + emotion));
+                container.appendChild(label);
+            });
+        }
+
+        function updateRadarChart() {
+            const selectedEmotions = Array.from(document.querySelectorAll('#checkbox-container input[type="checkbox"]:checked'))
+                                          .map(checkbox => checkbox.value);
+
+            const traces = [{
+                type: 'scatterpolar',
+                r: normalizedAllMean,
+                theta: spotifyColumns,
+                fill: 'toself',
+                name: 'All Songs',
+                line: { color: 'black' }
+            }];
+
+            selectedEmotions.forEach(emotion => {
+                const filteredSongs = allSongsData.filter(song => song.top_emotion === emotion);
+                const emotionMean = calculateMeanValues(filteredSongs);
+                const normalizedEmotionMean = normalizeValues(emotionMean, allSongsData);
+
+                traces.push({
+                    type: 'scatterpolar',
+                    r: normalizedEmotionMean,
+                    theta: spotifyColumns,
+                    fill: 'toself',
+                    name: emotion,
+                    line: { width: 1 }
+                });
+            });
+
+            plotRadarChart(traces);
+        }
+
+        function plotRadarChart(traces) {
+            const layout = {
+                polar: {
+                    radialaxis: {
+                        visible: true,
+                        range: [0, 1]
+                    }
+                },
+                title: 'Radar Plot: Mean Feature Comparison by Emotion',
+                showlegend: true
+            };
+
+            Plotly.newPlot('plotly-chart', traces, layout);
+        }
+    </script>
+
+</body>
+</html>

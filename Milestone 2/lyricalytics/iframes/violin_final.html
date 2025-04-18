@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Violin Plots with Embedded Top Hit Points</title>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+    }
+
+    .violin-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      padding: 20px;
+      gap: 20px;
+    }
+
+    .violin-plot {
+      flex: 1 1 45%;
+      height: 50vh;
+      min-width: 300px;
+      max-width: 450px;
+    }
+
+    @media (max-width: 768px) {
+      .violin-plot {
+        flex: 1 1 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <h3 style="padding-left: 20px;">Violin Plot with Overlaid Top Hit Points</h3>
+  <div class="violin-container" id="violin-plots"></div>
+
+  <script>
+    const spotifyColumns = [
+      'popularity', 'duration_ms', 'danceability', 'energy', 'loudness',
+      'speechiness', 'acousticness', 'instrumentalness', 'liveness',
+      'valence', 'tempo', 'time_signature'
+    ];
+
+    d3.csv("/assets/data/merged_file.csv").then(function(data) {
+      createViolinPlots(data);
+    }).catch(function(error) {
+      console.error("Error loading the CSV: ", error);
+    });
+
+    function createViolinPlots(data) {
+      const container = document.getElementById('violin-plots');
+
+      spotifyColumns.forEach((feature, featureIndex) => {
+        const yValues = data.map(song => parseFloat(song[feature]) || 0);
+        const isTopHit = data.map(song => song.top_hit === 'True');
+
+        const centerX = 0;
+
+        const violinTrace = {
+          type: 'violin',
+          x: Array(yValues.length).fill(centerX),
+          y: yValues,
+          name: feature,
+          box: { visible: true },
+          meanline: { visible: true },
+          points: false,
+          jitter: 0,
+          scalemode: 'count',
+          marker: { opacity: 0.6 },
+          line: { color: 'gray' },
+          fillcolor: 'rgba(150,150,150,0.2)',
+          showlegend: false
+        };
+
+        const scatterX = isTopHit
+          .map((flag, i) => flag ? centerX + (Math.random() - 0.5) * 0.6 : null)
+          .filter(x => x !== null);
+
+        const scatterY = yValues.filter((_, i) => isTopHit[i]);
+
+        const scatterTrace = {
+          type: 'scatter',
+          mode: 'markers',
+          x: scatterX,
+          y: scatterY,
+          marker: {
+            color: 'green',
+            size: 3,
+            opacity: 0.1 // Reduced opacity for visibility
+          },
+          name: 'Top Hits',
+          showlegend: false
+        };
+
+        const layout = {
+          title: `${feature} Distribution`,
+          margin: { t: 40, l: 50, r: 30, b: 50 },
+          xaxis: {
+            showticklabels: true,
+            tickvals: [centerX],
+            ticktext: [feature],
+            zeroline: false,
+            range: [-1, 1]
+          },
+          yaxis: {
+            title: feature,
+            zeroline: false
+          },
+          autosize: true
+        };
+
+        const div = document.createElement('div');
+        div.className = 'violin-plot';
+        container.appendChild(div);
+
+        Plotly.newPlot(div, [violinTrace, scatterTrace], layout, { responsive: true });
+      });
+    }
+  </script>
+</body>
+</html>

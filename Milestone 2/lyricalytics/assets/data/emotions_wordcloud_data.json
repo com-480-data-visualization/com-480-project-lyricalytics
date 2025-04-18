@@ -1,0 +1,10052 @@
+{
+  "love": [
+    {
+      "text": "love",
+      "size": 100
+    },
+    {
+      "text": "all",
+      "size": 32
+    },
+    {
+      "text": "dont",
+      "size": 31
+    },
+    {
+      "text": "yeah",
+      "size": 27
+    },
+    {
+      "text": "know",
+      "size": 26
+    },
+    {
+      "text": "just",
+      "size": 25
+    },
+    {
+      "text": "baby",
+      "size": 24
+    },
+    {
+      "text": "when",
+      "size": 23
+    },
+    {
+      "text": "youre",
+      "size": 20
+    },
+    {
+      "text": "got",
+      "size": 20
+    },
+    {
+      "text": "never",
+      "size": 19
+    },
+    {
+      "text": "let",
+      "size": 18
+    },
+    {
+      "text": "now",
+      "size": 18
+    },
+    {
+      "text": "what",
+      "size": 17
+    },
+    {
+      "text": "feel",
+      "size": 15
+    },
+    {
+      "text": "ill",
+      "size": 14
+    },
+    {
+      "text": "want",
+      "size": 14
+    },
+    {
+      "text": "cause",
+      "size": 14
+    },
+    {
+      "text": "get",
+      "size": 14
+    },
+    {
+      "text": "give",
+      "size": 14
+    },
+    {
+      "text": "one",
+      "size": 14
+    },
+    {
+      "text": "wanna",
+      "size": 13
+    },
+    {
+      "text": "come",
+      "size": 13
+    },
+    {
+      "text": "heart",
+      "size": 13
+    },
+    {
+      "text": "cant",
+      "size": 13
+    },
+    {
+      "text": "way",
+      "size": 13
+    },
+    {
+      "text": "night",
+      "size": 12
+    },
+    {
+      "text": "time",
+      "size": 12
+    },
+    {
+      "text": "say",
+      "size": 12
+    },
+    {
+      "text": "see",
+      "size": 12
+    },
+    {
+      "text": "make",
+      "size": 12
+    },
+    {
+      "text": "need",
+      "size": 12
+    },
+    {
+      "text": "take",
+      "size": 11
+    },
+    {
+      "text": "ooh",
+      "size": 11
+    },
+    {
+      "text": "more",
+      "size": 10
+    },
+    {
+      "text": "hold",
+      "size": 10
+    },
+    {
+      "text": "girl",
+      "size": 10
+    },
+    {
+      "text": "thats",
+      "size": 10
+    },
+    {
+      "text": "day",
+      "size": 10
+    },
+    {
+      "text": "she",
+      "size": 9
+    },
+    {
+      "text": "how",
+      "size": 9
+    },
+    {
+      "text": "ive",
+      "size": 9
+    },
+    {
+      "text": "life",
+      "size": 9
+    },
+    {
+      "text": "not",
+      "size": 8
+    },
+    {
+      "text": "away",
+      "size": 8
+    },
+    {
+      "text": "tell",
+      "size": 8
+    },
+    {
+      "text": "every",
+      "size": 7
+    },
+    {
+      "text": "christmas",
+      "size": 7
+    },
+    {
+      "text": "only",
+      "size": 7
+    },
+    {
+      "text": "right",
+      "size": 7
+    },
+    {
+      "text": "gonna",
+      "size": 7
+    },
+    {
+      "text": "good",
+      "size": 7
+    },
+    {
+      "text": "her",
+      "size": 7
+    },
+    {
+      "text": "little",
+      "size": 7
+    },
+    {
+      "text": "keep",
+      "size": 7
+    },
+    {
+      "text": "mind",
+      "size": 7
+    },
+    {
+      "text": "again",
+      "size": 6
+    },
+    {
+      "text": "back",
+      "size": 6
+    },
+    {
+      "text": "here",
+      "size": 6
+    },
+    {
+      "text": "too",
+      "size": 6
+    },
+    {
+      "text": "still",
+      "size": 6
+    },
+    {
+      "text": "well",
+      "size": 6
+    },
+    {
+      "text": "wont",
+      "size": 6
+    },
+    {
+      "text": "think",
+      "size": 5
+    },
+    {
+      "text": "things",
+      "size": 5
+    },
+    {
+      "text": "stay",
+      "size": 5
+    },
+    {
+      "text": "through",
+      "size": 5
+    },
+    {
+      "text": "always",
+      "size": 5
+    },
+    {
+      "text": "there",
+      "size": 5
+    },
+    {
+      "text": "hey",
+      "size": 5
+    },
+    {
+      "text": "eyes",
+      "size": 5
+    },
+    {
+      "text": "where",
+      "size": 5
+    },
+    {
+      "text": "aint",
+      "size": 5
+    },
+    {
+      "text": "really",
+      "size": 4
+    },
+    {
+      "text": "ever",
+      "size": 4
+    },
+    {
+      "text": "then",
+      "size": 4
+    },
+    {
+      "text": "better",
+      "size": 4
+    },
+    {
+      "text": "call",
+      "size": 4
+    },
+    {
+      "text": "feeling",
+      "size": 4
+    },
+    {
+      "text": "said",
+      "size": 4
+    },
+    {
+      "text": "theres",
+      "size": 4
+    },
+    {
+      "text": "find",
+      "size": 4
+    },
+    {
+      "text": "around",
+      "size": 4
+    },
+    {
+      "text": "tonight",
+      "size": 4
+    },
+    {
+      "text": "look",
+      "size": 4
+    },
+    {
+      "text": "body",
+      "size": 4
+    },
+    {
+      "text": "hand",
+      "size": 4
+    },
+    {
+      "text": "forever",
+      "size": 4
+    },
+    {
+      "text": "why",
+      "size": 4
+    },
+    {
+      "text": "mine",
+      "size": 4
+    },
+    {
+      "text": "than",
+      "size": 4
+    },
+    {
+      "text": "please",
+      "size": 4
+    },
+    {
+      "text": "much",
+      "size": 4
+    },
+    {
+      "text": "care",
+      "size": 4
+    },
+    {
+      "text": "someone",
+      "size": 4
+    },
+    {
+      "text": "world",
+      "size": 4
+    },
+    {
+      "text": "fire",
+      "size": 4
+    },
+    {
+      "text": "gave",
+      "size": 4
+    },
+    {
+      "text": "show",
+      "size": 4
+    },
+    {
+      "text": "long",
+      "size": 4
+    }
+  ],
+  "approval": [
+    {
+      "text": "all",
+      "size": 100
+    },
+    {
+      "text": "yeah",
+      "size": 85
+    },
+    {
+      "text": "know",
+      "size": 76
+    },
+    {
+      "text": "run",
+      "size": 70
+    },
+    {
+      "text": "got",
+      "size": 64
+    },
+    {
+      "text": "dont",
+      "size": 60
+    },
+    {
+      "text": "just",
+      "size": 58
+    },
+    {
+      "text": "get",
+      "size": 54
+    },
+    {
+      "text": "when",
+      "size": 53
+    },
+    {
+      "text": "what",
+      "size": 53
+    },
+    {
+      "text": "make",
+      "size": 52
+    },
+    {
+      "text": "now",
+      "size": 48
+    },
+    {
+      "text": "youre",
+      "size": 46
+    },
+    {
+      "text": "take",
+      "size": 46
+    },
+    {
+      "text": "come",
+      "size": 43
+    },
+    {
+      "text": "time",
+      "size": 41
+    },
+    {
+      "text": "baby",
+      "size": 40
+    },
+    {
+      "text": "back",
+      "size": 37
+    },
+    {
+      "text": "right",
+      "size": 36
+    },
+    {
+      "text": "through",
+      "size": 36
+    },
+    {
+      "text": "rudolph",
+      "size": 35
+    },
+    {
+      "text": "cause",
+      "size": 34
+    },
+    {
+      "text": "one",
+      "size": 33
+    },
+    {
+      "text": "let",
+      "size": 33
+    },
+    {
+      "text": "feel",
+      "size": 32
+    },
+    {
+      "text": "never",
+      "size": 29
+    },
+    {
+      "text": "love",
+      "size": 29
+    },
+    {
+      "text": "well",
+      "size": 29
+    },
+    {
+      "text": "say",
+      "size": 29
+    },
+    {
+      "text": "him",
+      "size": 28
+    },
+    {
+      "text": "see",
+      "size": 27
+    },
+    {
+      "text": "not",
+      "size": 27
+    },
+    {
+      "text": "gonna",
+      "size": 26
+    },
+    {
+      "text": "ill",
+      "size": 26
+    },
+    {
+      "text": "want",
+      "size": 25
+    },
+    {
+      "text": "tell",
+      "size": 24
+    },
+    {
+      "text": "need",
+      "size": 24
+    },
+    {
+      "text": "way",
+      "size": 23
+    },
+    {
+      "text": "santa",
+      "size": 23
+    },
+    {
+      "text": "world",
+      "size": 22
+    },
+    {
+      "text": "she",
+      "size": 22
+    },
+    {
+      "text": "cant",
+      "size": 22
+    },
+    {
+      "text": "night",
+      "size": 21
+    },
+    {
+      "text": "good",
+      "size": 21
+    },
+    {
+      "text": "life",
+      "size": 21
+    },
+    {
+      "text": "hey",
+      "size": 20
+    },
+    {
+      "text": "away",
+      "size": 20
+    },
+    {
+      "text": "wanna",
+      "size": 20
+    },
+    {
+      "text": "here",
+      "size": 19
+    },
+    {
+      "text": "follow",
+      "size": 19
+    },
+    {
+      "text": "only",
+      "size": 19
+    },
+    {
+      "text": "theres",
+      "size": 19
+    },
+    {
+      "text": "aint",
+      "size": 19
+    },
+    {
+      "text": "town",
+      "size": 18
+    },
+    {
+      "text": "day",
+      "size": 17
+    },
+    {
+      "text": "more",
+      "size": 17
+    },
+    {
+      "text": "where",
+      "size": 17
+    },
+    {
+      "text": "how",
+      "size": 17
+    },
+    {
+      "text": "mind",
+      "size": 17
+    },
+    {
+      "text": "girl",
+      "size": 16
+    },
+    {
+      "text": "little",
+      "size": 16
+    },
+    {
+      "text": "burn",
+      "size": 16
+    },
+    {
+      "text": "there",
+      "size": 16
+    },
+    {
+      "text": "believe",
+      "size": 16
+    },
+    {
+      "text": "ive",
+      "size": 16
+    },
+    {
+      "text": "then",
+      "size": 16
+    },
+    {
+      "text": "light",
+      "size": 16
+    },
+    {
+      "text": "better",
+      "size": 15
+    },
+    {
+      "text": "every",
+      "size": 15
+    },
+    {
+      "text": "tonight",
+      "size": 15
+    },
+    {
+      "text": "thats",
+      "size": 15
+    },
+    {
+      "text": "keep",
+      "size": 15
+    },
+    {
+      "text": "give",
+      "size": 15
+    },
+    {
+      "text": "fire",
+      "size": 15
+    },
+    {
+      "text": "again",
+      "size": 15
+    },
+    {
+      "text": "look",
+      "size": 15
+    },
+    {
+      "text": "turn",
+      "size": 14
+    },
+    {
+      "text": "play",
+      "size": 14
+    },
+    {
+      "text": "said",
+      "size": 14
+    },
+    {
+      "text": "coming",
+      "size": 14
+    },
+    {
+      "text": "too",
+      "size": 14
+    },
+    {
+      "text": "heart",
+      "size": 14
+    },
+    {
+      "text": "wont",
+      "size": 14
+    },
+    {
+      "text": "some",
+      "size": 14
+    },
+    {
+      "text": "end",
+      "size": 13
+    },
+    {
+      "text": "ooh",
+      "size": 13
+    },
+    {
+      "text": "nothing",
+      "size": 13
+    },
+    {
+      "text": "lets",
+      "size": 13
+    },
+    {
+      "text": "man",
+      "size": 13
+    },
+    {
+      "text": "put",
+      "size": 13
+    },
+    {
+      "text": "dance",
+      "size": 12
+    },
+    {
+      "text": "god",
+      "size": 12
+    },
+    {
+      "text": "always",
+      "size": 12
+    },
+    {
+      "text": "low",
+      "size": 12
+    },
+    {
+      "text": "who",
+      "size": 12
+    },
+    {
+      "text": "her",
+      "size": 12
+    },
+    {
+      "text": "think",
+      "size": 12
+    },
+    {
+      "text": "hurry",
+      "size": 12
+    },
+    {
+      "text": "eyes",
+      "size": 12
+    },
+    {
+      "text": "still",
+      "size": 12
+    }
+  ],
+  "sadness": [
+    {
+      "text": "all",
+      "size": 100
+    },
+    {
+      "text": "dont",
+      "size": 83
+    },
+    {
+      "text": "know",
+      "size": 73
+    },
+    {
+      "text": "when",
+      "size": 71
+    },
+    {
+      "text": "now",
+      "size": 66
+    },
+    {
+      "text": "just",
+      "size": 56
+    },
+    {
+      "text": "youre",
+      "size": 53
+    },
+    {
+      "text": "love",
+      "size": 53
+    },
+    {
+      "text": "feel",
+      "size": 51
+    },
+    {
+      "text": "never",
+      "size": 48
+    },
+    {
+      "text": "one",
+      "size": 47
+    },
+    {
+      "text": "time",
+      "size": 45
+    },
+    {
+      "text": "yeah",
+      "size": 45
+    },
+    {
+      "text": "cant",
+      "size": 40
+    },
+    {
+      "text": "make",
+      "size": 39
+    },
+    {
+      "text": "not",
+      "size": 38
+    },
+    {
+      "text": "see",
+      "size": 38
+    },
+    {
+      "text": "cause",
+      "size": 37
+    },
+    {
+      "text": "heart",
+      "size": 36
+    },
+    {
+      "text": "got",
+      "size": 35
+    },
+    {
+      "text": "what",
+      "size": 34
+    },
+    {
+      "text": "let",
+      "size": 33
+    },
+    {
+      "text": "ill",
+      "size": 33
+    },
+    {
+      "text": "way",
+      "size": 31
+    },
+    {
+      "text": "baby",
+      "size": 31
+    },
+    {
+      "text": "back",
+      "size": 31
+    },
+    {
+      "text": "she",
+      "size": 30
+    },
+    {
+      "text": "away",
+      "size": 30
+    },
+    {
+      "text": "say",
+      "size": 30
+    },
+    {
+      "text": "gone",
+      "size": 29
+    },
+    {
+      "text": "ive",
+      "size": 29
+    },
+    {
+      "text": "life",
+      "size": 28
+    },
+    {
+      "text": "only",
+      "size": 27
+    },
+    {
+      "text": "night",
+      "size": 27
+    },
+    {
+      "text": "how",
+      "size": 26
+    },
+    {
+      "text": "get",
+      "size": 26
+    },
+    {
+      "text": "without",
+      "size": 25
+    },
+    {
+      "text": "day",
+      "size": 25
+    },
+    {
+      "text": "here",
+      "size": 25
+    },
+    {
+      "text": "come",
+      "size": 24
+    },
+    {
+      "text": "there",
+      "size": 24
+    },
+    {
+      "text": "her",
+      "size": 24
+    },
+    {
+      "text": "lonely",
+      "size": 23
+    },
+    {
+      "text": "home",
+      "size": 23
+    },
+    {
+      "text": "take",
+      "size": 23
+    },
+    {
+      "text": "think",
+      "size": 22
+    },
+    {
+      "text": "where",
+      "size": 22
+    },
+    {
+      "text": "again",
+      "size": 22
+    },
+    {
+      "text": "pum",
+      "size": 22
+    },
+    {
+      "text": "lost",
+      "size": 22
+    },
+    {
+      "text": "still",
+      "size": 22
+    },
+    {
+      "text": "alone",
+      "size": 21
+    },
+    {
+      "text": "tell",
+      "size": 21
+    },
+    {
+      "text": "keep",
+      "size": 21
+    },
+    {
+      "text": "eyes",
+      "size": 20
+    },
+    {
+      "text": "wanna",
+      "size": 20
+    },
+    {
+      "text": "gonna",
+      "size": 20
+    },
+    {
+      "text": "theres",
+      "size": 20
+    },
+    {
+      "text": "more",
+      "size": 19
+    },
+    {
+      "text": "too",
+      "size": 19
+    },
+    {
+      "text": "girl",
+      "size": 19
+    },
+    {
+      "text": "want",
+      "size": 19
+    },
+    {
+      "text": "right",
+      "size": 18
+    },
+    {
+      "text": "through",
+      "size": 18
+    },
+    {
+      "text": "well",
+      "size": 18
+    },
+    {
+      "text": "mind",
+      "size": 18
+    },
+    {
+      "text": "youll",
+      "size": 18
+    },
+    {
+      "text": "then",
+      "size": 18
+    },
+    {
+      "text": "inside",
+      "size": 18
+    },
+    {
+      "text": "need",
+      "size": 18
+    },
+    {
+      "text": "hold",
+      "size": 17
+    },
+    {
+      "text": "sad",
+      "size": 17
+    },
+    {
+      "text": "miss",
+      "size": 17
+    },
+    {
+      "text": "every",
+      "size": 17
+    },
+    {
+      "text": "said",
+      "size": 17
+    },
+    {
+      "text": "world",
+      "size": 17
+    },
+    {
+      "text": "wont",
+      "size": 16
+    },
+    {
+      "text": "why",
+      "size": 16
+    },
+    {
+      "text": "hey",
+      "size": 16
+    },
+    {
+      "text": "pain",
+      "size": 15
+    },
+    {
+      "text": "nothing",
+      "size": 15
+    },
+    {
+      "text": "christmas",
+      "size": 15
+    },
+    {
+      "text": "little",
+      "size": 14
+    },
+    {
+      "text": "okay",
+      "size": 14
+    },
+    {
+      "text": "left",
+      "size": 14
+    },
+    {
+      "text": "always",
+      "size": 14
+    },
+    {
+      "text": "cold",
+      "size": 14
+    },
+    {
+      "text": "feeling",
+      "size": 14
+    },
+    {
+      "text": "head",
+      "size": 14
+    },
+    {
+      "text": "cry",
+      "size": 13
+    },
+    {
+      "text": "remember",
+      "size": 13
+    },
+    {
+      "text": "die",
+      "size": 13
+    },
+    {
+      "text": "find",
+      "size": 13
+    },
+    {
+      "text": "leave",
+      "size": 13
+    },
+    {
+      "text": "long",
+      "size": 13
+    },
+    {
+      "text": "hard",
+      "size": 13
+    },
+    {
+      "text": "aint",
+      "size": 13
+    },
+    {
+      "text": "thats",
+      "size": 12
+    },
+    {
+      "text": "hear",
+      "size": 12
+    },
+    {
+      "text": "made",
+      "size": 12
+    }
+  ],
+  "disappointment": [
+    {
+      "text": "shayo",
+      "size": 100
+    },
+    {
+      "text": "all",
+      "size": 82
+    },
+    {
+      "text": "dont",
+      "size": 81
+    },
+    {
+      "text": "know",
+      "size": 75
+    },
+    {
+      "text": "just",
+      "size": 75
+    },
+    {
+      "text": "cant",
+      "size": 64
+    },
+    {
+      "text": "when",
+      "size": 60
+    },
+    {
+      "text": "what",
+      "size": 55
+    },
+    {
+      "text": "not",
+      "size": 54
+    },
+    {
+      "text": "now",
+      "size": 53
+    },
+    {
+      "text": "yeah",
+      "size": 52
+    },
+    {
+      "text": "need",
+      "size": 50
+    },
+    {
+      "text": "get",
+      "size": 48
+    },
+    {
+      "text": "ive",
+      "size": 47
+    },
+    {
+      "text": "one",
+      "size": 39
+    },
+    {
+      "text": "wont",
+      "size": 38
+    },
+    {
+      "text": "never",
+      "size": 37
+    },
+    {
+      "text": "time",
+      "size": 37
+    },
+    {
+      "text": "got",
+      "size": 37
+    },
+    {
+      "text": "cause",
+      "size": 37
+    },
+    {
+      "text": "come",
+      "size": 35
+    },
+    {
+      "text": "love",
+      "size": 35
+    },
+    {
+      "text": "way",
+      "size": 34
+    },
+    {
+      "text": "life",
+      "size": 34
+    },
+    {
+      "text": "feel",
+      "size": 34
+    },
+    {
+      "text": "more",
+      "size": 33
+    },
+    {
+      "text": "youre",
+      "size": 32
+    },
+    {
+      "text": "let",
+      "size": 32
+    },
+    {
+      "text": "back",
+      "size": 30
+    },
+    {
+      "text": "see",
+      "size": 29
+    },
+    {
+      "text": "nothing",
+      "size": 29
+    },
+    {
+      "text": "igbo",
+      "size": 28
+    },
+    {
+      "text": "theres",
+      "size": 28
+    },
+    {
+      "text": "ill",
+      "size": 27
+    },
+    {
+      "text": "say",
+      "size": 26
+    },
+    {
+      "text": "here",
+      "size": 25
+    },
+    {
+      "text": "how",
+      "size": 25
+    },
+    {
+      "text": "take",
+      "size": 25
+    },
+    {
+      "text": "why",
+      "size": 25
+    },
+    {
+      "text": "want",
+      "size": 25
+    },
+    {
+      "text": "still",
+      "size": 25
+    },
+    {
+      "text": "wanna",
+      "size": 24
+    },
+    {
+      "text": "lights",
+      "size": 24
+    },
+    {
+      "text": "she",
+      "size": 24
+    },
+    {
+      "text": "said",
+      "size": 24
+    },
+    {
+      "text": "night",
+      "size": 23
+    },
+    {
+      "text": "home",
+      "size": 23
+    },
+    {
+      "text": "think",
+      "size": 23
+    },
+    {
+      "text": "too",
+      "size": 23
+    },
+    {
+      "text": "lets",
+      "size": 22
+    },
+    {
+      "text": "leave",
+      "size": 21
+    },
+    {
+      "text": "baby",
+      "size": 21
+    },
+    {
+      "text": "well",
+      "size": 21
+    },
+    {
+      "text": "make",
+      "size": 21
+    },
+    {
+      "text": "there",
+      "size": 20
+    },
+    {
+      "text": "gonna",
+      "size": 20
+    },
+    {
+      "text": "something",
+      "size": 19
+    },
+    {
+      "text": "away",
+      "size": 19
+    },
+    {
+      "text": "sun",
+      "size": 19
+    },
+    {
+      "text": "right",
+      "size": 19
+    },
+    {
+      "text": "try",
+      "size": 18
+    },
+    {
+      "text": "alone",
+      "size": 18
+    },
+    {
+      "text": "every",
+      "size": 17
+    },
+    {
+      "text": "black",
+      "size": 17
+    },
+    {
+      "text": "myself",
+      "size": 17
+    },
+    {
+      "text": "head",
+      "size": 17
+    },
+    {
+      "text": "find",
+      "size": 17
+    },
+    {
+      "text": "dey",
+      "size": 16
+    },
+    {
+      "text": "everything",
+      "size": 16
+    },
+    {
+      "text": "day",
+      "size": 16
+    },
+    {
+      "text": "hole",
+      "size": 16
+    },
+    {
+      "text": "then",
+      "size": 15
+    },
+    {
+      "text": "left",
+      "size": 15
+    },
+    {
+      "text": "give",
+      "size": 15
+    },
+    {
+      "text": "ohoh",
+      "size": 15
+    },
+    {
+      "text": "through",
+      "size": 15
+    },
+    {
+      "text": "mind",
+      "size": 15
+    },
+    {
+      "text": "hard",
+      "size": 14
+    },
+    {
+      "text": "always",
+      "size": 14
+    },
+    {
+      "text": "really",
+      "size": 14
+    },
+    {
+      "text": "better",
+      "size": 14
+    },
+    {
+      "text": "keep",
+      "size": 14
+    },
+    {
+      "text": "without",
+      "size": 14
+    },
+    {
+      "text": "maybe",
+      "size": 14
+    },
+    {
+      "text": "her",
+      "size": 14
+    },
+    {
+      "text": "around",
+      "size": 14
+    },
+    {
+      "text": "tell",
+      "size": 14
+    },
+    {
+      "text": "heart",
+      "size": 14
+    },
+    {
+      "text": "again",
+      "size": 14
+    },
+    {
+      "text": "lost",
+      "size": 13
+    },
+    {
+      "text": "turn",
+      "size": 13
+    },
+    {
+      "text": "trying",
+      "size": 13
+    },
+    {
+      "text": "another",
+      "size": 13
+    },
+    {
+      "text": "last",
+      "size": 13
+    },
+    {
+      "text": "ooh",
+      "size": 13
+    },
+    {
+      "text": "everybody",
+      "size": 13
+    },
+    {
+      "text": "only",
+      "size": 13
+    },
+    {
+      "text": "hey",
+      "size": 13
+    },
+    {
+      "text": "talk",
+      "size": 13
+    },
+    {
+      "text": "where",
+      "size": 13
+    }
+  ],
+  "annoyance": [
+    {
+      "text": "dont",
+      "size": 100
+    },
+    {
+      "text": "all",
+      "size": 72
+    },
+    {
+      "text": "know",
+      "size": 58
+    },
+    {
+      "text": "just",
+      "size": 57
+    },
+    {
+      "text": "yeah",
+      "size": 55
+    },
+    {
+      "text": "get",
+      "size": 52
+    },
+    {
+      "text": "youre",
+      "size": 47
+    },
+    {
+      "text": "one",
+      "size": 45
+    },
+    {
+      "text": "when",
+      "size": 45
+    },
+    {
+      "text": "got",
+      "size": 42
+    },
+    {
+      "text": "now",
+      "size": 38
+    },
+    {
+      "text": "what",
+      "size": 38
+    },
+    {
+      "text": "cant",
+      "size": 36
+    },
+    {
+      "text": "not",
+      "size": 33
+    },
+    {
+      "text": "back",
+      "size": 31
+    },
+    {
+      "text": "say",
+      "size": 30
+    },
+    {
+      "text": "cause",
+      "size": 29
+    },
+    {
+      "text": "never",
+      "size": 28
+    },
+    {
+      "text": "see",
+      "size": 27
+    },
+    {
+      "text": "she",
+      "size": 27
+    },
+    {
+      "text": "wanna",
+      "size": 26
+    },
+    {
+      "text": "time",
+      "size": 26
+    },
+    {
+      "text": "take",
+      "size": 25
+    },
+    {
+      "text": "let",
+      "size": 24
+    },
+    {
+      "text": "want",
+      "size": 23
+    },
+    {
+      "text": "make",
+      "size": 22
+    },
+    {
+      "text": "come",
+      "size": 22
+    },
+    {
+      "text": "why",
+      "size": 22
+    },
+    {
+      "text": "aint",
+      "size": 22
+    },
+    {
+      "text": "baby",
+      "size": 20
+    },
+    {
+      "text": "gonna",
+      "size": 20
+    },
+    {
+      "text": "way",
+      "size": 19
+    },
+    {
+      "text": "away",
+      "size": 19
+    },
+    {
+      "text": "tell",
+      "size": 18
+    },
+    {
+      "text": "feel",
+      "size": 18
+    },
+    {
+      "text": "more",
+      "size": 18
+    },
+    {
+      "text": "need",
+      "size": 18
+    },
+    {
+      "text": "too",
+      "size": 18
+    },
+    {
+      "text": "how",
+      "size": 18
+    },
+    {
+      "text": "right",
+      "size": 17
+    },
+    {
+      "text": "man",
+      "size": 17
+    },
+    {
+      "text": "run",
+      "size": 17
+    },
+    {
+      "text": "think",
+      "size": 16
+    },
+    {
+      "text": "ill",
+      "size": 16
+    },
+    {
+      "text": "only",
+      "size": 16
+    },
+    {
+      "text": "mind",
+      "size": 16
+    },
+    {
+      "text": "hey",
+      "size": 16
+    },
+    {
+      "text": "keep",
+      "size": 16
+    },
+    {
+      "text": "here",
+      "size": 15
+    },
+    {
+      "text": "fuck",
+      "size": 15
+    },
+    {
+      "text": "give",
+      "size": 15
+    },
+    {
+      "text": "ive",
+      "size": 15
+    },
+    {
+      "text": "head",
+      "size": 14
+    },
+    {
+      "text": "life",
+      "size": 14
+    },
+    {
+      "text": "her",
+      "size": 14
+    },
+    {
+      "text": "wont",
+      "size": 14
+    },
+    {
+      "text": "shit",
+      "size": 14
+    },
+    {
+      "text": "little",
+      "size": 13
+    },
+    {
+      "text": "dance",
+      "size": 13
+    },
+    {
+      "text": "eyes",
+      "size": 13
+    },
+    {
+      "text": "bitch",
+      "size": 13
+    },
+    {
+      "text": "said",
+      "size": 13
+    },
+    {
+      "text": "then",
+      "size": 13
+    },
+    {
+      "text": "thats",
+      "size": 13
+    },
+    {
+      "text": "dem",
+      "size": 13
+    },
+    {
+      "text": "still",
+      "size": 12
+    },
+    {
+      "text": "better",
+      "size": 12
+    },
+    {
+      "text": "every",
+      "size": 12
+    },
+    {
+      "text": "love",
+      "size": 12
+    },
+    {
+      "text": "well",
+      "size": 11
+    },
+    {
+      "text": "through",
+      "size": 11
+    },
+    {
+      "text": "some",
+      "size": 11
+    },
+    {
+      "text": "who",
+      "size": 11
+    },
+    {
+      "text": "where",
+      "size": 11
+    },
+    {
+      "text": "look",
+      "size": 11
+    },
+    {
+      "text": "stop",
+      "size": 10
+    },
+    {
+      "text": "dead",
+      "size": 10
+    },
+    {
+      "text": "put",
+      "size": 10
+    },
+    {
+      "text": "before",
+      "size": 10
+    },
+    {
+      "text": "theres",
+      "size": 10
+    },
+    {
+      "text": "night",
+      "size": 10
+    },
+    {
+      "text": "again",
+      "size": 10
+    },
+    {
+      "text": "there",
+      "size": 10
+    },
+    {
+      "text": "around",
+      "size": 10
+    },
+    {
+      "text": "money",
+      "size": 10
+    },
+    {
+      "text": "bad",
+      "size": 10
+    },
+    {
+      "text": "day",
+      "size": 10
+    },
+    {
+      "text": "die",
+      "size": 10
+    },
+    {
+      "text": "another",
+      "size": 10
+    },
+    {
+      "text": "til",
+      "size": 10
+    },
+    {
+      "text": "ooh",
+      "size": 10
+    },
+    {
+      "text": "same",
+      "size": 9
+    },
+    {
+      "text": "world",
+      "size": 9
+    },
+    {
+      "text": "even",
+      "size": 9
+    },
+    {
+      "text": "yuh",
+      "size": 9
+    },
+    {
+      "text": "everything",
+      "size": 9
+    },
+    {
+      "text": "hit",
+      "size": 9
+    },
+    {
+      "text": "good",
+      "size": 9
+    },
+    {
+      "text": "call",
+      "size": 9
+    },
+    {
+      "text": "leave",
+      "size": 9
+    }
+  ],
+  "admiration": [
+    {
+      "text": "youre",
+      "size": 100
+    },
+    {
+      "text": "all",
+      "size": 72
+    },
+    {
+      "text": "know",
+      "size": 69
+    },
+    {
+      "text": "she",
+      "size": 67
+    },
+    {
+      "text": "beautiful",
+      "size": 64
+    },
+    {
+      "text": "yeah",
+      "size": 58
+    },
+    {
+      "text": "dont",
+      "size": 49
+    },
+    {
+      "text": "see",
+      "size": 49
+    },
+    {
+      "text": "baby",
+      "size": 47
+    },
+    {
+      "text": "just",
+      "size": 47
+    },
+    {
+      "text": "now",
+      "size": 46
+    },
+    {
+      "text": "when",
+      "size": 45
+    },
+    {
+      "text": "girl",
+      "size": 40
+    },
+    {
+      "text": "god",
+      "size": 40
+    },
+    {
+      "text": "her",
+      "size": 39
+    },
+    {
+      "text": "never",
+      "size": 37
+    },
+    {
+      "text": "what",
+      "size": 37
+    },
+    {
+      "text": "good",
+      "size": 37
+    },
+    {
+      "text": "shes",
+      "size": 36
+    },
+    {
+      "text": "got",
+      "size": 35
+    },
+    {
+      "text": "hey",
+      "size": 35
+    },
+    {
+      "text": "get",
+      "size": 34
+    },
+    {
+      "text": "one",
+      "size": 32
+    },
+    {
+      "text": "perfect",
+      "size": 31
+    },
+    {
+      "text": "make",
+      "size": 30
+    },
+    {
+      "text": "let",
+      "size": 30
+    },
+    {
+      "text": "way",
+      "size": 30
+    },
+    {
+      "text": "pretty",
+      "size": 28
+    },
+    {
+      "text": "come",
+      "size": 28
+    },
+    {
+      "text": "say",
+      "size": 26
+    },
+    {
+      "text": "how",
+      "size": 25
+    },
+    {
+      "text": "who",
+      "size": 24
+    },
+    {
+      "text": "cause",
+      "size": 24
+    },
+    {
+      "text": "love",
+      "size": 24
+    },
+    {
+      "text": "life",
+      "size": 22
+    },
+    {
+      "text": "not",
+      "size": 22
+    },
+    {
+      "text": "every",
+      "size": 22
+    },
+    {
+      "text": "time",
+      "size": 21
+    },
+    {
+      "text": "ill",
+      "size": 21
+    },
+    {
+      "text": "well",
+      "size": 21
+    },
+    {
+      "text": "look",
+      "size": 21
+    },
+    {
+      "text": "than",
+      "size": 20
+    },
+    {
+      "text": "name",
+      "size": 19
+    },
+    {
+      "text": "take",
+      "size": 19
+    },
+    {
+      "text": "wanna",
+      "size": 19
+    },
+    {
+      "text": "world",
+      "size": 19
+    },
+    {
+      "text": "more",
+      "size": 18
+    },
+    {
+      "text": "want",
+      "size": 18
+    },
+    {
+      "text": "here",
+      "size": 17
+    },
+    {
+      "text": "heart",
+      "size": 17
+    },
+    {
+      "text": "right",
+      "size": 17
+    },
+    {
+      "text": "sing",
+      "size": 16
+    },
+    {
+      "text": "night",
+      "size": 16
+    },
+    {
+      "text": "light",
+      "size": 16
+    },
+    {
+      "text": "praise",
+      "size": 15
+    },
+    {
+      "text": "day",
+      "size": 15
+    },
+    {
+      "text": "back",
+      "size": 15
+    },
+    {
+      "text": "girls",
+      "size": 15
+    },
+    {
+      "text": "thing",
+      "size": 15
+    },
+    {
+      "text": "need",
+      "size": 15
+    },
+    {
+      "text": "ive",
+      "size": 15
+    },
+    {
+      "text": "gyal",
+      "size": 14
+    },
+    {
+      "text": "theres",
+      "size": 14
+    },
+    {
+      "text": "give",
+      "size": 14
+    },
+    {
+      "text": "hes",
+      "size": 14
+    },
+    {
+      "text": "best",
+      "size": 14
+    },
+    {
+      "text": "ooh",
+      "size": 14
+    },
+    {
+      "text": "disco",
+      "size": 14
+    },
+    {
+      "text": "there",
+      "size": 13
+    },
+    {
+      "text": "great",
+      "size": 13
+    },
+    {
+      "text": "cant",
+      "size": 13
+    },
+    {
+      "text": "mind",
+      "size": 13
+    },
+    {
+      "text": "better",
+      "size": 13
+    },
+    {
+      "text": "through",
+      "size": 13
+    },
+    {
+      "text": "tell",
+      "size": 13
+    },
+    {
+      "text": "jesus",
+      "size": 13
+    },
+    {
+      "text": "ever",
+      "size": 13
+    },
+    {
+      "text": "thats",
+      "size": 12
+    },
+    {
+      "text": "only",
+      "size": 12
+    },
+    {
+      "text": "king",
+      "size": 12
+    },
+    {
+      "text": "mine",
+      "size": 12
+    },
+    {
+      "text": "super",
+      "size": 12
+    },
+    {
+      "text": "then",
+      "size": 12
+    },
+    {
+      "text": "eyes",
+      "size": 12
+    },
+    {
+      "text": "even",
+      "size": 12
+    },
+    {
+      "text": "feel",
+      "size": 12
+    },
+    {
+      "text": "little",
+      "size": 12
+    },
+    {
+      "text": "gonna",
+      "size": 12
+    },
+    {
+      "text": "blue",
+      "size": 11
+    },
+    {
+      "text": "lord",
+      "size": 11
+    },
+    {
+      "text": "sky",
+      "size": 11
+    },
+    {
+      "text": "man",
+      "size": 11
+    },
+    {
+      "text": "think",
+      "size": 11
+    },
+    {
+      "text": "still",
+      "size": 10
+    },
+    {
+      "text": "away",
+      "size": 10
+    },
+    {
+      "text": "everything",
+      "size": 10
+    },
+    {
+      "text": "nice",
+      "size": 10
+    },
+    {
+      "text": "aint",
+      "size": 10
+    },
+    {
+      "text": "said",
+      "size": 10
+    },
+    {
+      "text": "very",
+      "size": 10
+    }
+  ],
+  "desire": [
+    {
+      "text": "know",
+      "size": 100
+    },
+    {
+      "text": "all",
+      "size": 93
+    },
+    {
+      "text": "want",
+      "size": 82
+    },
+    {
+      "text": "wanna",
+      "size": 80
+    },
+    {
+      "text": "just",
+      "size": 70
+    },
+    {
+      "text": "wish",
+      "size": 62
+    },
+    {
+      "text": "when",
+      "size": 60
+    },
+    {
+      "text": "dont",
+      "size": 58
+    },
+    {
+      "text": "christmas",
+      "size": 52
+    },
+    {
+      "text": "time",
+      "size": 47
+    },
+    {
+      "text": "yeah",
+      "size": 46
+    },
+    {
+      "text": "ill",
+      "size": 40
+    },
+    {
+      "text": "need",
+      "size": 37
+    },
+    {
+      "text": "love",
+      "size": 36
+    },
+    {
+      "text": "see",
+      "size": 36
+    },
+    {
+      "text": "cause",
+      "size": 35
+    },
+    {
+      "text": "feel",
+      "size": 35
+    },
+    {
+      "text": "youre",
+      "size": 35
+    },
+    {
+      "text": "now",
+      "size": 32
+    },
+    {
+      "text": "ive",
+      "size": 32
+    },
+    {
+      "text": "never",
+      "size": 31
+    },
+    {
+      "text": "what",
+      "size": 31
+    },
+    {
+      "text": "cant",
+      "size": 31
+    },
+    {
+      "text": "come",
+      "size": 29
+    },
+    {
+      "text": "make",
+      "size": 28
+    },
+    {
+      "text": "let",
+      "size": 28
+    },
+    {
+      "text": "every",
+      "size": 28
+    },
+    {
+      "text": "get",
+      "size": 27
+    },
+    {
+      "text": "got",
+      "size": 27
+    },
+    {
+      "text": "back",
+      "size": 27
+    },
+    {
+      "text": "night",
+      "size": 26
+    },
+    {
+      "text": "away",
+      "size": 26
+    },
+    {
+      "text": "one",
+      "size": 26
+    },
+    {
+      "text": "how",
+      "size": 26
+    },
+    {
+      "text": "not",
+      "size": 25
+    },
+    {
+      "text": "way",
+      "size": 24
+    },
+    {
+      "text": "right",
+      "size": 24
+    },
+    {
+      "text": "say",
+      "size": 23
+    },
+    {
+      "text": "life",
+      "size": 23
+    },
+    {
+      "text": "day",
+      "size": 22
+    },
+    {
+      "text": "something",
+      "size": 22
+    },
+    {
+      "text": "hear",
+      "size": 22
+    },
+    {
+      "text": "well",
+      "size": 20
+    },
+    {
+      "text": "take",
+      "size": 20
+    },
+    {
+      "text": "world",
+      "size": 20
+    },
+    {
+      "text": "think",
+      "size": 20
+    },
+    {
+      "text": "baby",
+      "size": 20
+    },
+    {
+      "text": "where",
+      "size": 19
+    },
+    {
+      "text": "there",
+      "size": 19
+    },
+    {
+      "text": "leave",
+      "size": 19
+    },
+    {
+      "text": "happier",
+      "size": 18
+    },
+    {
+      "text": "heart",
+      "size": 18
+    },
+    {
+      "text": "again",
+      "size": 18
+    },
+    {
+      "text": "only",
+      "size": 18
+    },
+    {
+      "text": "more",
+      "size": 18
+    },
+    {
+      "text": "here",
+      "size": 17
+    },
+    {
+      "text": "eyes",
+      "size": 17
+    },
+    {
+      "text": "through",
+      "size": 16
+    },
+    {
+      "text": "gonna",
+      "size": 16
+    },
+    {
+      "text": "days",
+      "size": 15
+    },
+    {
+      "text": "someone",
+      "size": 15
+    },
+    {
+      "text": "coming",
+      "size": 15
+    },
+    {
+      "text": "too",
+      "size": 15
+    },
+    {
+      "text": "tell",
+      "size": 15
+    },
+    {
+      "text": "give",
+      "size": 15
+    },
+    {
+      "text": "theres",
+      "size": 15
+    },
+    {
+      "text": "then",
+      "size": 15
+    },
+    {
+      "text": "mind",
+      "size": 14
+    },
+    {
+      "text": "everything",
+      "size": 13
+    },
+    {
+      "text": "tonight",
+      "size": 12
+    },
+    {
+      "text": "thats",
+      "size": 12
+    },
+    {
+      "text": "alone",
+      "size": 12
+    },
+    {
+      "text": "someday",
+      "size": 12
+    },
+    {
+      "text": "girl",
+      "size": 11
+    },
+    {
+      "text": "close",
+      "size": 11
+    },
+    {
+      "text": "still",
+      "size": 11
+    },
+    {
+      "text": "little",
+      "size": 11
+    },
+    {
+      "text": "lalalala",
+      "size": 11
+    },
+    {
+      "text": "home",
+      "size": 11
+    },
+    {
+      "text": "really",
+      "size": 11
+    },
+    {
+      "text": "who",
+      "size": 11
+    },
+    {
+      "text": "wont",
+      "size": 11
+    },
+    {
+      "text": "old",
+      "size": 11
+    },
+    {
+      "text": "stay",
+      "size": 10
+    },
+    {
+      "text": "nights",
+      "size": 10
+    },
+    {
+      "text": "smile",
+      "size": 10
+    },
+    {
+      "text": "keep",
+      "size": 10
+    },
+    {
+      "text": "hold",
+      "size": 10
+    },
+    {
+      "text": "said",
+      "size": 10
+    },
+    {
+      "text": "maybe",
+      "size": 10
+    },
+    {
+      "text": "long",
+      "size": 10
+    },
+    {
+      "text": "heat",
+      "size": 10
+    },
+    {
+      "text": "around",
+      "size": 10
+    },
+    {
+      "text": "change",
+      "size": 10
+    },
+    {
+      "text": "better",
+      "size": 10
+    },
+    {
+      "text": "late",
+      "size": 9
+    },
+    {
+      "text": "together",
+      "size": 9
+    },
+    {
+      "text": "believe",
+      "size": 9
+    },
+    {
+      "text": "makes",
+      "size": 9
+    },
+    {
+      "text": "trouble",
+      "size": 9
+    }
+  ],
+  "caring": [
+    {
+      "text": "dont",
+      "size": 100
+    },
+    {
+      "text": "know",
+      "size": 74
+    },
+    {
+      "text": "just",
+      "size": 73
+    },
+    {
+      "text": "youre",
+      "size": 68
+    },
+    {
+      "text": "when",
+      "size": 67
+    },
+    {
+      "text": "ill",
+      "size": 64
+    },
+    {
+      "text": "all",
+      "size": 64
+    },
+    {
+      "text": "never",
+      "size": 48
+    },
+    {
+      "text": "let",
+      "size": 47
+    },
+    {
+      "text": "baby",
+      "size": 43
+    },
+    {
+      "text": "gonna",
+      "size": 40
+    },
+    {
+      "text": "love",
+      "size": 39
+    },
+    {
+      "text": "yeah",
+      "size": 37
+    },
+    {
+      "text": "one",
+      "size": 32
+    },
+    {
+      "text": "hold",
+      "size": 31
+    },
+    {
+      "text": "take",
+      "size": 31
+    },
+    {
+      "text": "what",
+      "size": 31
+    },
+    {
+      "text": "time",
+      "size": 29
+    },
+    {
+      "text": "now",
+      "size": 29
+    },
+    {
+      "text": "got",
+      "size": 29
+    },
+    {
+      "text": "there",
+      "size": 28
+    },
+    {
+      "text": "not",
+      "size": 28
+    },
+    {
+      "text": "make",
+      "size": 28
+    },
+    {
+      "text": "get",
+      "size": 28
+    },
+    {
+      "text": "yourself",
+      "size": 28
+    },
+    {
+      "text": "keep",
+      "size": 27
+    },
+    {
+      "text": "wont",
+      "size": 27
+    },
+    {
+      "text": "good",
+      "size": 27
+    },
+    {
+      "text": "feel",
+      "size": 26
+    },
+    {
+      "text": "rockabye",
+      "size": 26
+    },
+    {
+      "text": "need",
+      "size": 25
+    },
+    {
+      "text": "see",
+      "size": 25
+    },
+    {
+      "text": "here",
+      "size": 25
+    },
+    {
+      "text": "through",
+      "size": 24
+    },
+    {
+      "text": "cause",
+      "size": 24
+    },
+    {
+      "text": "save",
+      "size": 24
+    },
+    {
+      "text": "everything",
+      "size": 23
+    },
+    {
+      "text": "give",
+      "size": 23
+    },
+    {
+      "text": "cant",
+      "size": 23
+    },
+    {
+      "text": "come",
+      "size": 22
+    },
+    {
+      "text": "life",
+      "size": 22
+    },
+    {
+      "text": "away",
+      "size": 22
+    },
+    {
+      "text": "too",
+      "size": 21
+    },
+    {
+      "text": "better",
+      "size": 21
+    },
+    {
+      "text": "alright",
+      "size": 21
+    },
+    {
+      "text": "well",
+      "size": 20
+    },
+    {
+      "text": "girl",
+      "size": 19
+    },
+    {
+      "text": "always",
+      "size": 19
+    },
+    {
+      "text": "say",
+      "size": 19
+    },
+    {
+      "text": "right",
+      "size": 19
+    },
+    {
+      "text": "back",
+      "size": 19
+    },
+    {
+      "text": "day",
+      "size": 19
+    },
+    {
+      "text": "heart",
+      "size": 18
+    },
+    {
+      "text": "youll",
+      "size": 18
+    },
+    {
+      "text": "find",
+      "size": 18
+    },
+    {
+      "text": "some",
+      "size": 18
+    },
+    {
+      "text": "world",
+      "size": 17
+    },
+    {
+      "text": "call",
+      "size": 17
+    },
+    {
+      "text": "ever",
+      "size": 17
+    },
+    {
+      "text": "christmas",
+      "size": 17
+    },
+    {
+      "text": "way",
+      "size": 17
+    },
+    {
+      "text": "little",
+      "size": 17
+    },
+    {
+      "text": "cry",
+      "size": 16
+    },
+    {
+      "text": "light",
+      "size": 16
+    },
+    {
+      "text": "merry",
+      "size": 15
+    },
+    {
+      "text": "youve",
+      "size": 15
+    },
+    {
+      "text": "leave",
+      "size": 15
+    },
+    {
+      "text": "wish",
+      "size": 15
+    },
+    {
+      "text": "where",
+      "size": 14
+    },
+    {
+      "text": "hey",
+      "size": 14
+    },
+    {
+      "text": "want",
+      "size": 14
+    },
+    {
+      "text": "alone",
+      "size": 14
+    },
+    {
+      "text": "aint",
+      "size": 14
+    },
+    {
+      "text": "wanna",
+      "size": 14
+    },
+    {
+      "text": "fire",
+      "size": 14
+    },
+    {
+      "text": "roots",
+      "size": 14
+    },
+    {
+      "text": "even",
+      "size": 14
+    },
+    {
+      "text": "stay",
+      "size": 14
+    },
+    {
+      "text": "only",
+      "size": 14
+    },
+    {
+      "text": "head",
+      "size": 13
+    },
+    {
+      "text": "side",
+      "size": 13
+    },
+    {
+      "text": "she",
+      "size": 13
+    },
+    {
+      "text": "walk",
+      "size": 13
+    },
+    {
+      "text": "tell",
+      "size": 12
+    },
+    {
+      "text": "theres",
+      "size": 12
+    },
+    {
+      "text": "bring",
+      "size": 12
+    },
+    {
+      "text": "around",
+      "size": 12
+    },
+    {
+      "text": "safe",
+      "size": 12
+    },
+    {
+      "text": "sun",
+      "size": 11
+    },
+    {
+      "text": "home",
+      "size": 11
+    },
+    {
+      "text": "worry",
+      "size": 11
+    },
+    {
+      "text": "ooh",
+      "size": 11
+    },
+    {
+      "text": "hope",
+      "size": 11
+    },
+    {
+      "text": "far",
+      "size": 11
+    },
+    {
+      "text": "everythingll",
+      "size": 11
+    },
+    {
+      "text": "gotta",
+      "size": 11
+    },
+    {
+      "text": "enough",
+      "size": 11
+    },
+    {
+      "text": "live",
+      "size": 10
+    },
+    {
+      "text": "hard",
+      "size": 10
+    },
+    {
+      "text": "night",
+      "size": 10
+    }
+  ],
+  "realization": [
+    {
+      "text": "halloween",
+      "size": 100
+    },
+    {
+      "text": "all",
+      "size": 50
+    },
+    {
+      "text": "remember",
+      "size": 47
+    },
+    {
+      "text": "never",
+      "size": 46
+    },
+    {
+      "text": "now",
+      "size": 44
+    },
+    {
+      "text": "got",
+      "size": 40
+    },
+    {
+      "text": "know",
+      "size": 37
+    },
+    {
+      "text": "when",
+      "size": 34
+    },
+    {
+      "text": "let",
+      "size": 32
+    },
+    {
+      "text": "time",
+      "size": 29
+    },
+    {
+      "text": "back",
+      "size": 28
+    },
+    {
+      "text": "day",
+      "size": 28
+    },
+    {
+      "text": "ill",
+      "size": 27
+    },
+    {
+      "text": "dont",
+      "size": 26
+    },
+    {
+      "text": "much",
+      "size": 26
+    },
+    {
+      "text": "ive",
+      "size": 25
+    },
+    {
+      "text": "history",
+      "size": 24
+    },
+    {
+      "text": "one",
+      "size": 24
+    },
+    {
+      "text": "just",
+      "size": 22
+    },
+    {
+      "text": "dead",
+      "size": 21
+    },
+    {
+      "text": "see",
+      "size": 21
+    },
+    {
+      "text": "night",
+      "size": 20
+    },
+    {
+      "text": "what",
+      "size": 19
+    },
+    {
+      "text": "burning",
+      "size": 19
+    },
+    {
+      "text": "life",
+      "size": 19
+    },
+    {
+      "text": "cause",
+      "size": 19
+    },
+    {
+      "text": "hanging",
+      "size": 18
+    },
+    {
+      "text": "poles",
+      "size": 18
+    },
+    {
+      "text": "where",
+      "size": 18
+    },
+    {
+      "text": "hey",
+      "size": 17
+    },
+    {
+      "text": "better",
+      "size": 17
+    },
+    {
+      "text": "long",
+      "size": 16
+    },
+    {
+      "text": "little",
+      "size": 16
+    },
+    {
+      "text": "take",
+      "size": 16
+    },
+    {
+      "text": "goes",
+      "size": 15
+    },
+    {
+      "text": "youre",
+      "size": 15
+    },
+    {
+      "text": "away",
+      "size": 15
+    },
+    {
+      "text": "always",
+      "size": 15
+    },
+    {
+      "text": "anything",
+      "size": 15
+    },
+    {
+      "text": "another",
+      "size": 14
+    },
+    {
+      "text": "yeah",
+      "size": 14
+    },
+    {
+      "text": "ooh",
+      "size": 14
+    },
+    {
+      "text": "end",
+      "size": 13
+    },
+    {
+      "text": "get",
+      "size": 13
+    },
+    {
+      "text": "summer",
+      "size": 13
+    },
+    {
+      "text": "black",
+      "size": 13
+    },
+    {
+      "text": "only",
+      "size": 13
+    },
+    {
+      "text": "eyes",
+      "size": 13
+    },
+    {
+      "text": "again",
+      "size": 13
+    },
+    {
+      "text": "she",
+      "size": 13
+    },
+    {
+      "text": "feel",
+      "size": 13
+    },
+    {
+      "text": "there",
+      "size": 13
+    },
+    {
+      "text": "come",
+      "size": 12
+    },
+    {
+      "text": "bodies",
+      "size": 12
+    },
+    {
+      "text": "ready",
+      "size": 12
+    },
+    {
+      "text": "here",
+      "size": 12
+    },
+    {
+      "text": "world",
+      "size": 12
+    },
+    {
+      "text": "said",
+      "size": 11
+    },
+    {
+      "text": "waitin",
+      "size": 11
+    },
+    {
+      "text": "not",
+      "size": 11
+    },
+    {
+      "text": "than",
+      "size": 11
+    },
+    {
+      "text": "coming",
+      "size": 11
+    },
+    {
+      "text": "waiting",
+      "size": 10
+    },
+    {
+      "text": "soon",
+      "size": 10
+    },
+    {
+      "text": "cant",
+      "size": 10
+    },
+    {
+      "text": "sha",
+      "size": 10
+    },
+    {
+      "text": "her",
+      "size": 10
+    },
+    {
+      "text": "new",
+      "size": 10
+    },
+    {
+      "text": "nothing",
+      "size": 10
+    },
+    {
+      "text": "right",
+      "size": 10
+    },
+    {
+      "text": "sky",
+      "size": 9
+    },
+    {
+      "text": "baby",
+      "size": 9
+    },
+    {
+      "text": "theres",
+      "size": 9
+    },
+    {
+      "text": "too",
+      "size": 9
+    },
+    {
+      "text": "say",
+      "size": 9
+    },
+    {
+      "text": "getting",
+      "size": 9
+    },
+    {
+      "text": "inside",
+      "size": 9
+    },
+    {
+      "text": "head",
+      "size": 9
+    },
+    {
+      "text": "way",
+      "size": 9
+    },
+    {
+      "text": "mind",
+      "size": 9
+    },
+    {
+      "text": "going",
+      "size": 9
+    },
+    {
+      "text": "memories",
+      "size": 8
+    },
+    {
+      "text": "around",
+      "size": 8
+    },
+    {
+      "text": "well",
+      "size": 8
+    },
+    {
+      "text": "think",
+      "size": 8
+    },
+    {
+      "text": "love",
+      "size": 8
+    },
+    {
+      "text": "through",
+      "size": 8
+    },
+    {
+      "text": "hold",
+      "size": 8
+    },
+    {
+      "text": "then",
+      "size": 8
+    },
+    {
+      "text": "how",
+      "size": 8
+    },
+    {
+      "text": "known",
+      "size": 8
+    },
+    {
+      "text": "knew",
+      "size": 8
+    },
+    {
+      "text": "every",
+      "size": 7
+    },
+    {
+      "text": "last",
+      "size": 7
+    },
+    {
+      "text": "thats",
+      "size": 7
+    },
+    {
+      "text": "made",
+      "size": 7
+    },
+    {
+      "text": "live",
+      "size": 7
+    },
+    {
+      "text": "keep",
+      "size": 7
+    },
+    {
+      "text": "thought",
+      "size": 7
+    },
+    {
+      "text": "street",
+      "size": 7
+    }
+  ],
+  "joy": [
+    {
+      "text": "hot",
+      "size": 100
+    },
+    {
+      "text": "all",
+      "size": 68
+    },
+    {
+      "text": "christmas",
+      "size": 62
+    },
+    {
+      "text": "good",
+      "size": 57
+    },
+    {
+      "text": "look",
+      "size": 55
+    },
+    {
+      "text": "yeah",
+      "size": 50
+    },
+    {
+      "text": "time",
+      "size": 47
+    },
+    {
+      "text": "round",
+      "size": 45
+    },
+    {
+      "text": "when",
+      "size": 45
+    },
+    {
+      "text": "just",
+      "size": 37
+    },
+    {
+      "text": "baby",
+      "size": 37
+    },
+    {
+      "text": "dont",
+      "size": 35
+    },
+    {
+      "text": "feel",
+      "size": 35
+    },
+    {
+      "text": "come",
+      "size": 34
+    },
+    {
+      "text": "night",
+      "size": 33
+    },
+    {
+      "text": "tonight",
+      "size": 32
+    },
+    {
+      "text": "lets",
+      "size": 32
+    },
+    {
+      "text": "get",
+      "size": 32
+    },
+    {
+      "text": "know",
+      "size": 30
+    },
+    {
+      "text": "life",
+      "size": 30
+    },
+    {
+      "text": "see",
+      "size": 27
+    },
+    {
+      "text": "merry",
+      "size": 27
+    },
+    {
+      "text": "make",
+      "size": 26
+    },
+    {
+      "text": "now",
+      "size": 25
+    },
+    {
+      "text": "sleigh",
+      "size": 25
+    },
+    {
+      "text": "jingle",
+      "size": 25
+    },
+    {
+      "text": "heat",
+      "size": 24
+    },
+    {
+      "text": "fun",
+      "size": 24
+    },
+    {
+      "text": "gonna",
+      "size": 23
+    },
+    {
+      "text": "here",
+      "size": 23
+    },
+    {
+      "text": "happy",
+      "size": 23
+    },
+    {
+      "text": "shake",
+      "size": 22
+    },
+    {
+      "text": "day",
+      "size": 22
+    },
+    {
+      "text": "say",
+      "size": 22
+    },
+    {
+      "text": "let",
+      "size": 22
+    },
+    {
+      "text": "rocking",
+      "size": 21
+    },
+    {
+      "text": "ride",
+      "size": 21
+    },
+    {
+      "text": "ass",
+      "size": 21
+    },
+    {
+      "text": "stopping",
+      "size": 21
+    },
+    {
+      "text": "cant",
+      "size": 21
+    },
+    {
+      "text": "dropping",
+      "size": 21
+    },
+    {
+      "text": "got",
+      "size": 20
+    },
+    {
+      "text": "well",
+      "size": 20
+    },
+    {
+      "text": "cause",
+      "size": 19
+    },
+    {
+      "text": "one",
+      "size": 18
+    },
+    {
+      "text": "what",
+      "size": 18
+    },
+    {
+      "text": "way",
+      "size": 18
+    },
+    {
+      "text": "together",
+      "size": 18
+    },
+    {
+      "text": "youre",
+      "size": 18
+    },
+    {
+      "text": "bells",
+      "size": 18
+    },
+    {
+      "text": "cool",
+      "size": 18
+    },
+    {
+      "text": "dance",
+      "size": 18
+    },
+    {
+      "text": "back",
+      "size": 18
+    },
+    {
+      "text": "never",
+      "size": 18
+    },
+    {
+      "text": "home",
+      "size": 17
+    },
+    {
+      "text": "hear",
+      "size": 17
+    },
+    {
+      "text": "run",
+      "size": 16
+    },
+    {
+      "text": "gon",
+      "size": 15
+    },
+    {
+      "text": "take",
+      "size": 15
+    },
+    {
+      "text": "some",
+      "size": 15
+    },
+    {
+      "text": "giddy",
+      "size": 15
+    },
+    {
+      "text": "world",
+      "size": 15
+    },
+    {
+      "text": "snow",
+      "size": 15
+    },
+    {
+      "text": "yap",
+      "size": 15
+    },
+    {
+      "text": "love",
+      "size": 14
+    },
+    {
+      "text": "goes",
+      "size": 14
+    },
+    {
+      "text": "around",
+      "size": 14
+    },
+    {
+      "text": "please",
+      "size": 14
+    },
+    {
+      "text": "away",
+      "size": 14
+    },
+    {
+      "text": "two",
+      "size": 14
+    },
+    {
+      "text": "right",
+      "size": 13
+    },
+    {
+      "text": "wanna",
+      "size": 13
+    },
+    {
+      "text": "every",
+      "size": 13
+    },
+    {
+      "text": "times",
+      "size": 13
+    },
+    {
+      "text": "fire",
+      "size": 13
+    },
+    {
+      "text": "want",
+      "size": 13
+    },
+    {
+      "text": "keep",
+      "size": 13
+    },
+    {
+      "text": "ill",
+      "size": 13
+    },
+    {
+      "text": "there",
+      "size": 12
+    },
+    {
+      "text": "abraabracadabra",
+      "size": 12
+    },
+    {
+      "text": "how",
+      "size": 12
+    },
+    {
+      "text": "frosty",
+      "size": 12
+    },
+    {
+      "text": "always",
+      "size": 12
+    },
+    {
+      "text": "where",
+      "size": 12
+    },
+    {
+      "text": "spellbound",
+      "size": 12
+    },
+    {
+      "text": "wont",
+      "size": 12
+    },
+    {
+      "text": "joy",
+      "size": 12
+    },
+    {
+      "text": "sing",
+      "size": 11
+    },
+    {
+      "text": "going",
+      "size": 11
+    },
+    {
+      "text": "thats",
+      "size": 11
+    },
+    {
+      "text": "magic",
+      "size": 11
+    },
+    {
+      "text": "cry",
+      "size": 11
+    },
+    {
+      "text": "eyes",
+      "size": 11
+    },
+    {
+      "text": "made",
+      "size": 11
+    },
+    {
+      "text": "year",
+      "size": 11
+    },
+    {
+      "text": "song",
+      "size": 11
+    },
+    {
+      "text": "open",
+      "size": 11
+    },
+    {
+      "text": "snowman",
+      "size": 11
+    },
+    {
+      "text": "more",
+      "size": 11
+    },
+    {
+      "text": "best",
+      "size": 11
+    }
+  ],
+  "disapproval": [
+    {
+      "text": "dont",
+      "size": 100
+    },
+    {
+      "text": "not",
+      "size": 55
+    },
+    {
+      "text": "all",
+      "size": 34
+    },
+    {
+      "text": "cant",
+      "size": 34
+    },
+    {
+      "text": "ill",
+      "size": 31
+    },
+    {
+      "text": "wanna",
+      "size": 31
+    },
+    {
+      "text": "know",
+      "size": 27
+    },
+    {
+      "text": "just",
+      "size": 25
+    },
+    {
+      "text": "gonna",
+      "size": 24
+    },
+    {
+      "text": "aint",
+      "size": 23
+    },
+    {
+      "text": "got",
+      "size": 22
+    },
+    {
+      "text": "never",
+      "size": 21
+    },
+    {
+      "text": "youre",
+      "size": 21
+    },
+    {
+      "text": "one",
+      "size": 20
+    },
+    {
+      "text": "made",
+      "size": 20
+    },
+    {
+      "text": "yeah",
+      "size": 20
+    },
+    {
+      "text": "say",
+      "size": 19
+    },
+    {
+      "text": "want",
+      "size": 18
+    },
+    {
+      "text": "let",
+      "size": 18
+    },
+    {
+      "text": "when",
+      "size": 17
+    },
+    {
+      "text": "love",
+      "size": 16
+    },
+    {
+      "text": "take",
+      "size": 16
+    },
+    {
+      "text": "change",
+      "size": 16
+    },
+    {
+      "text": "what",
+      "size": 15
+    },
+    {
+      "text": "cause",
+      "size": 15
+    },
+    {
+      "text": "here",
+      "size": 14
+    },
+    {
+      "text": "ive",
+      "size": 14
+    },
+    {
+      "text": "now",
+      "size": 14
+    },
+    {
+      "text": "stop",
+      "size": 13
+    },
+    {
+      "text": "time",
+      "size": 13
+    },
+    {
+      "text": "more",
+      "size": 13
+    },
+    {
+      "text": "wont",
+      "size": 12
+    },
+    {
+      "text": "life",
+      "size": 12
+    },
+    {
+      "text": "make",
+      "size": 11
+    },
+    {
+      "text": "need",
+      "size": 10
+    },
+    {
+      "text": "ever",
+      "size": 10
+    },
+    {
+      "text": "get",
+      "size": 10
+    },
+    {
+      "text": "feel",
+      "size": 10
+    },
+    {
+      "text": "good",
+      "size": 10
+    },
+    {
+      "text": "keep",
+      "size": 9
+    },
+    {
+      "text": "always",
+      "size": 9
+    },
+    {
+      "text": "think",
+      "size": 9
+    },
+    {
+      "text": "well",
+      "size": 9
+    },
+    {
+      "text": "see",
+      "size": 8
+    },
+    {
+      "text": "way",
+      "size": 8
+    },
+    {
+      "text": "stay",
+      "size": 8
+    },
+    {
+      "text": "back",
+      "size": 8
+    },
+    {
+      "text": "only",
+      "size": 7
+    },
+    {
+      "text": "she",
+      "size": 7
+    },
+    {
+      "text": "away",
+      "size": 7
+    },
+    {
+      "text": "why",
+      "size": 7
+    },
+    {
+      "text": "catch",
+      "size": 7
+    },
+    {
+      "text": "hey",
+      "size": 7
+    },
+    {
+      "text": "there",
+      "size": 7
+    },
+    {
+      "text": "feeling",
+      "size": 7
+    },
+    {
+      "text": "run",
+      "size": 7
+    },
+    {
+      "text": "come",
+      "size": 7
+    },
+    {
+      "text": "anymore",
+      "size": 7
+    },
+    {
+      "text": "put",
+      "size": 7
+    },
+    {
+      "text": "night",
+      "size": 7
+    },
+    {
+      "text": "call",
+      "size": 6
+    },
+    {
+      "text": "right",
+      "size": 6
+    },
+    {
+      "text": "tell",
+      "size": 6
+    },
+    {
+      "text": "heart",
+      "size": 6
+    },
+    {
+      "text": "give",
+      "size": 6
+    },
+    {
+      "text": "wicked",
+      "size": 6
+    },
+    {
+      "text": "baby",
+      "size": 6
+    },
+    {
+      "text": "head",
+      "size": 6
+    },
+    {
+      "text": "day",
+      "size": 6
+    },
+    {
+      "text": "two",
+      "size": 6
+    },
+    {
+      "text": "theres",
+      "size": 6
+    },
+    {
+      "text": "people",
+      "size": 6
+    },
+    {
+      "text": "escape",
+      "size": 6
+    },
+    {
+      "text": "zero",
+      "size": 5
+    },
+    {
+      "text": "thats",
+      "size": 5
+    },
+    {
+      "text": "mould",
+      "size": 5
+    },
+    {
+      "text": "violence",
+      "size": 5
+    },
+    {
+      "text": "nope",
+      "size": 5
+    },
+    {
+      "text": "her",
+      "size": 5
+    },
+    {
+      "text": "enough",
+      "size": 5
+    },
+    {
+      "text": "home",
+      "size": 5
+    },
+    {
+      "text": "light",
+      "size": 5
+    },
+    {
+      "text": "some",
+      "size": 5
+    },
+    {
+      "text": "sane",
+      "size": 5
+    },
+    {
+      "text": "better",
+      "size": 5
+    },
+    {
+      "text": "world",
+      "size": 5
+    },
+    {
+      "text": "alone",
+      "size": 5
+    },
+    {
+      "text": "where",
+      "size": 5
+    },
+    {
+      "text": "nobody",
+      "size": 5
+    },
+    {
+      "text": "doesnt",
+      "size": 5
+    },
+    {
+      "text": "days",
+      "size": 5
+    },
+    {
+      "text": "look",
+      "size": 5
+    },
+    {
+      "text": "said",
+      "size": 5
+    },
+    {
+      "text": "ooh",
+      "size": 4
+    },
+    {
+      "text": "really",
+      "size": 4
+    },
+    {
+      "text": "hold",
+      "size": 4
+    },
+    {
+      "text": "couldnt",
+      "size": 4
+    },
+    {
+      "text": "then",
+      "size": 4
+    },
+    {
+      "text": "melody",
+      "size": 4
+    },
+    {
+      "text": "bop",
+      "size": 4
+    }
+  ],
+  "optimism": [
+    {
+      "text": "all",
+      "size": 100
+    },
+    {
+      "text": "know",
+      "size": 84
+    },
+    {
+      "text": "hope",
+      "size": 84
+    },
+    {
+      "text": "alright",
+      "size": 72
+    },
+    {
+      "text": "just",
+      "size": 63
+    },
+    {
+      "text": "nana",
+      "size": 59
+    },
+    {
+      "text": "yeah",
+      "size": 54
+    },
+    {
+      "text": "ill",
+      "size": 52
+    },
+    {
+      "text": "youre",
+      "size": 52
+    },
+    {
+      "text": "when",
+      "size": 51
+    },
+    {
+      "text": "make",
+      "size": 50
+    },
+    {
+      "text": "stay",
+      "size": 49
+    },
+    {
+      "text": "dont",
+      "size": 49
+    },
+    {
+      "text": "get",
+      "size": 47
+    },
+    {
+      "text": "time",
+      "size": 46
+    },
+    {
+      "text": "better",
+      "size": 45
+    },
+    {
+      "text": "see",
+      "size": 45
+    },
+    {
+      "text": "now",
+      "size": 42
+    },
+    {
+      "text": "every",
+      "size": 41
+    },
+    {
+      "text": "gonna",
+      "size": 38
+    },
+    {
+      "text": "day",
+      "size": 37
+    },
+    {
+      "text": "not",
+      "size": 37
+    },
+    {
+      "text": "what",
+      "size": 36
+    },
+    {
+      "text": "never",
+      "size": 34
+    },
+    {
+      "text": "christmas",
+      "size": 33
+    },
+    {
+      "text": "way",
+      "size": 32
+    },
+    {
+      "text": "night",
+      "size": 31
+    },
+    {
+      "text": "got",
+      "size": 30
+    },
+    {
+      "text": "one",
+      "size": 30
+    },
+    {
+      "text": "come",
+      "size": 30
+    },
+    {
+      "text": "sun",
+      "size": 29
+    },
+    {
+      "text": "little",
+      "size": 29
+    },
+    {
+      "text": "take",
+      "size": 29
+    },
+    {
+      "text": "say",
+      "size": 28
+    },
+    {
+      "text": "let",
+      "size": 27
+    },
+    {
+      "text": "well",
+      "size": 26
+    },
+    {
+      "text": "cause",
+      "size": 26
+    },
+    {
+      "text": "home",
+      "size": 26
+    },
+    {
+      "text": "give",
+      "size": 25
+    },
+    {
+      "text": "wont",
+      "size": 24
+    },
+    {
+      "text": "right",
+      "size": 24
+    },
+    {
+      "text": "tomorrow",
+      "size": 24
+    },
+    {
+      "text": "here",
+      "size": 22
+    },
+    {
+      "text": "shine",
+      "size": 21
+    },
+    {
+      "text": "where",
+      "size": 21
+    },
+    {
+      "text": "through",
+      "size": 20
+    },
+    {
+      "text": "still",
+      "size": 19
+    },
+    {
+      "text": "wanna",
+      "size": 19
+    },
+    {
+      "text": "always",
+      "size": 19
+    },
+    {
+      "text": "keep",
+      "size": 18
+    },
+    {
+      "text": "world",
+      "size": 18
+    },
+    {
+      "text": "there",
+      "size": 18
+    },
+    {
+      "text": "she",
+      "size": 17
+    },
+    {
+      "text": "away",
+      "size": 17
+    },
+    {
+      "text": "ive",
+      "size": 17
+    },
+    {
+      "text": "youll",
+      "size": 17
+    },
+    {
+      "text": "again",
+      "size": 17
+    },
+    {
+      "text": "think",
+      "size": 16
+    },
+    {
+      "text": "lights",
+      "size": 16
+    },
+    {
+      "text": "things",
+      "size": 16
+    },
+    {
+      "text": "find",
+      "size": 16
+    },
+    {
+      "text": "aint",
+      "size": 16
+    },
+    {
+      "text": "long",
+      "size": 16
+    },
+    {
+      "text": "back",
+      "size": 16
+    },
+    {
+      "text": "going",
+      "size": 16
+    },
+    {
+      "text": "feel",
+      "size": 15
+    },
+    {
+      "text": "love",
+      "size": 15
+    },
+    {
+      "text": "something",
+      "size": 15
+    },
+    {
+      "text": "both",
+      "size": 14
+    },
+    {
+      "text": "life",
+      "size": 14
+    },
+    {
+      "text": "hold",
+      "size": 14
+    },
+    {
+      "text": "clock",
+      "size": 14
+    },
+    {
+      "text": "ticking",
+      "size": 14
+    },
+    {
+      "text": "mind",
+      "size": 14
+    },
+    {
+      "text": "wait",
+      "size": 14
+    },
+    {
+      "text": "without",
+      "size": 14
+    },
+    {
+      "text": "only",
+      "size": 14
+    },
+    {
+      "text": "change",
+      "size": 14
+    },
+    {
+      "text": "feeling",
+      "size": 14
+    },
+    {
+      "text": "turn",
+      "size": 14
+    },
+    {
+      "text": "heart",
+      "size": 13
+    },
+    {
+      "text": "hear",
+      "size": 13
+    },
+    {
+      "text": "head",
+      "size": 13
+    },
+    {
+      "text": "end",
+      "size": 13
+    },
+    {
+      "text": "good",
+      "size": 13
+    },
+    {
+      "text": "cant",
+      "size": 13
+    },
+    {
+      "text": "who",
+      "size": 13
+    },
+    {
+      "text": "theres",
+      "size": 13
+    },
+    {
+      "text": "maybe",
+      "size": 12
+    },
+    {
+      "text": "too",
+      "size": 12
+    },
+    {
+      "text": "believe",
+      "size": 12
+    },
+    {
+      "text": "need",
+      "size": 12
+    },
+    {
+      "text": "far",
+      "size": 12
+    },
+    {
+      "text": "look",
+      "size": 12
+    },
+    {
+      "text": "how",
+      "size": 12
+    },
+    {
+      "text": "sing",
+      "size": 12
+    },
+    {
+      "text": "meet",
+      "size": 12
+    },
+    {
+      "text": "thats",
+      "size": 11
+    },
+    {
+      "text": "around",
+      "size": 11
+    },
+    {
+      "text": "best",
+      "size": 11
+    }
+  ],
+  "confusion": [
+    {
+      "text": "dont",
+      "size": 100
+    },
+    {
+      "text": "know",
+      "size": 98
+    },
+    {
+      "text": "all",
+      "size": 73
+    },
+    {
+      "text": "what",
+      "size": 69
+    },
+    {
+      "text": "time",
+      "size": 47
+    },
+    {
+      "text": "why",
+      "size": 46
+    },
+    {
+      "text": "when",
+      "size": 42
+    },
+    {
+      "text": "just",
+      "size": 41
+    },
+    {
+      "text": "maybe",
+      "size": 37
+    },
+    {
+      "text": "ooh",
+      "size": 36
+    },
+    {
+      "text": "not",
+      "size": 34
+    },
+    {
+      "text": "cause",
+      "size": 34
+    },
+    {
+      "text": "cant",
+      "size": 33
+    },
+    {
+      "text": "say",
+      "size": 33
+    },
+    {
+      "text": "who",
+      "size": 30
+    },
+    {
+      "text": "never",
+      "size": 30
+    },
+    {
+      "text": "too",
+      "size": 28
+    },
+    {
+      "text": "love",
+      "size": 27
+    },
+    {
+      "text": "there",
+      "size": 27
+    },
+    {
+      "text": "mind",
+      "size": 27
+    },
+    {
+      "text": "youre",
+      "size": 27
+    },
+    {
+      "text": "now",
+      "size": 26
+    },
+    {
+      "text": "yeah",
+      "size": 26
+    },
+    {
+      "text": "get",
+      "size": 26
+    },
+    {
+      "text": "take",
+      "size": 23
+    },
+    {
+      "text": "got",
+      "size": 23
+    },
+    {
+      "text": "one",
+      "size": 23
+    },
+    {
+      "text": "how",
+      "size": 23
+    },
+    {
+      "text": "let",
+      "size": 22
+    },
+    {
+      "text": "right",
+      "size": 22
+    },
+    {
+      "text": "night",
+      "size": 22
+    },
+    {
+      "text": "see",
+      "size": 22
+    },
+    {
+      "text": "come",
+      "size": 22
+    },
+    {
+      "text": "away",
+      "size": 21
+    },
+    {
+      "text": "feel",
+      "size": 19
+    },
+    {
+      "text": "here",
+      "size": 19
+    },
+    {
+      "text": "back",
+      "size": 19
+    },
+    {
+      "text": "well",
+      "size": 19
+    },
+    {
+      "text": "where",
+      "size": 19
+    },
+    {
+      "text": "fall",
+      "size": 18
+    },
+    {
+      "text": "ive",
+      "size": 18
+    },
+    {
+      "text": "way",
+      "size": 18
+    },
+    {
+      "text": "ill",
+      "size": 18
+    },
+    {
+      "text": "tell",
+      "size": 18
+    },
+    {
+      "text": "think",
+      "size": 18
+    },
+    {
+      "text": "only",
+      "size": 18
+    },
+    {
+      "text": "hallelujah",
+      "size": 18
+    },
+    {
+      "text": "aint",
+      "size": 18
+    },
+    {
+      "text": "head",
+      "size": 18
+    },
+    {
+      "text": "sound",
+      "size": 17
+    },
+    {
+      "text": "heart",
+      "size": 17
+    },
+    {
+      "text": "baby",
+      "size": 17
+    },
+    {
+      "text": "through",
+      "size": 17
+    },
+    {
+      "text": "theres",
+      "size": 16
+    },
+    {
+      "text": "alarm",
+      "size": 15
+    },
+    {
+      "text": "still",
+      "size": 15
+    },
+    {
+      "text": "world",
+      "size": 15
+    },
+    {
+      "text": "hey",
+      "size": 15
+    },
+    {
+      "text": "find",
+      "size": 15
+    },
+    {
+      "text": "need",
+      "size": 15
+    },
+    {
+      "text": "eyes",
+      "size": 15
+    },
+    {
+      "text": "ever",
+      "size": 15
+    },
+    {
+      "text": "want",
+      "size": 15
+    },
+    {
+      "text": "day",
+      "size": 15
+    },
+    {
+      "text": "nothing",
+      "size": 14
+    },
+    {
+      "text": "she",
+      "size": 14
+    },
+    {
+      "text": "hold",
+      "size": 13
+    },
+    {
+      "text": "more",
+      "size": 13
+    },
+    {
+      "text": "then",
+      "size": 13
+    },
+    {
+      "text": "people",
+      "size": 13
+    },
+    {
+      "text": "side",
+      "size": 13
+    },
+    {
+      "text": "someone",
+      "size": 12
+    },
+    {
+      "text": "girl",
+      "size": 12
+    },
+    {
+      "text": "some",
+      "size": 12
+    },
+    {
+      "text": "wont",
+      "size": 12
+    },
+    {
+      "text": "something",
+      "size": 11
+    },
+    {
+      "text": "same",
+      "size": 11
+    },
+    {
+      "text": "again",
+      "size": 11
+    },
+    {
+      "text": "knew",
+      "size": 11
+    },
+    {
+      "text": "wanna",
+      "size": 11
+    },
+    {
+      "text": "life",
+      "size": 11
+    },
+    {
+      "text": "inside",
+      "size": 11
+    },
+    {
+      "text": "look",
+      "size": 11
+    },
+    {
+      "text": "gonna",
+      "size": 11
+    },
+    {
+      "text": "make",
+      "size": 11
+    },
+    {
+      "text": "keep",
+      "size": 10
+    },
+    {
+      "text": "stay",
+      "size": 10
+    },
+    {
+      "text": "going",
+      "size": 10
+    },
+    {
+      "text": "things",
+      "size": 10
+    },
+    {
+      "text": "said",
+      "size": 10
+    },
+    {
+      "text": "hard",
+      "size": 10
+    },
+    {
+      "text": "water",
+      "size": 10
+    },
+    {
+      "text": "good",
+      "size": 10
+    },
+    {
+      "text": "another",
+      "size": 10
+    },
+    {
+      "text": "goes",
+      "size": 10
+    },
+    {
+      "text": "her",
+      "size": 9
+    },
+    {
+      "text": "man",
+      "size": 9
+    },
+    {
+      "text": "mine",
+      "size": 9
+    },
+    {
+      "text": "end",
+      "size": 9
+    },
+    {
+      "text": "without",
+      "size": 9
+    }
+  ],
+  "fear": [
+    {
+      "text": "repeat",
+      "size": 100
+    },
+    {
+      "text": "all",
+      "size": 59
+    },
+    {
+      "text": "wanna",
+      "size": 53
+    },
+    {
+      "text": "dont",
+      "size": 47
+    },
+    {
+      "text": "know",
+      "size": 45
+    },
+    {
+      "text": "just",
+      "size": 33
+    },
+    {
+      "text": "when",
+      "size": 32
+    },
+    {
+      "text": "now",
+      "size": 31
+    },
+    {
+      "text": "feel",
+      "size": 31
+    },
+    {
+      "text": "one",
+      "size": 30
+    },
+    {
+      "text": "see",
+      "size": 28
+    },
+    {
+      "text": "youre",
+      "size": 27
+    },
+    {
+      "text": "day",
+      "size": 27
+    },
+    {
+      "text": "not",
+      "size": 27
+    },
+    {
+      "text": "love",
+      "size": 25
+    },
+    {
+      "text": "something",
+      "size": 25
+    },
+    {
+      "text": "ill",
+      "size": 24
+    },
+    {
+      "text": "let",
+      "size": 24
+    },
+    {
+      "text": "life",
+      "size": 23
+    },
+    {
+      "text": "afraid",
+      "size": 23
+    },
+    {
+      "text": "little",
+      "size": 23
+    },
+    {
+      "text": "cant",
+      "size": 22
+    },
+    {
+      "text": "time",
+      "size": 22
+    },
+    {
+      "text": "what",
+      "size": 22
+    },
+    {
+      "text": "never",
+      "size": 22
+    },
+    {
+      "text": "yeah",
+      "size": 22
+    },
+    {
+      "text": "cause",
+      "size": 22
+    },
+    {
+      "text": "real",
+      "size": 21
+    },
+    {
+      "text": "same",
+      "size": 20
+    },
+    {
+      "text": "scared",
+      "size": 19
+    },
+    {
+      "text": "light",
+      "size": 18
+    },
+    {
+      "text": "spend",
+      "size": 18
+    },
+    {
+      "text": "get",
+      "size": 18
+    },
+    {
+      "text": "away",
+      "size": 18
+    },
+    {
+      "text": "who",
+      "size": 18
+    },
+    {
+      "text": "ive",
+      "size": 17
+    },
+    {
+      "text": "heart",
+      "size": 17
+    },
+    {
+      "text": "take",
+      "size": 16
+    },
+    {
+      "text": "say",
+      "size": 16
+    },
+    {
+      "text": "again",
+      "size": 16
+    },
+    {
+      "text": "keep",
+      "size": 16
+    },
+    {
+      "text": "got",
+      "size": 16
+    },
+    {
+      "text": "wont",
+      "size": 16
+    },
+    {
+      "text": "here",
+      "size": 15
+    },
+    {
+      "text": "there",
+      "size": 15
+    },
+    {
+      "text": "tree",
+      "size": 15
+    },
+    {
+      "text": "right",
+      "size": 15
+    },
+    {
+      "text": "make",
+      "size": 14
+    },
+    {
+      "text": "christmas",
+      "size": 14
+    },
+    {
+      "text": "always",
+      "size": 14
+    },
+    {
+      "text": "world",
+      "size": 14
+    },
+    {
+      "text": "too",
+      "size": 14
+    },
+    {
+      "text": "through",
+      "size": 14
+    },
+    {
+      "text": "shivering",
+      "size": 14
+    },
+    {
+      "text": "find",
+      "size": 13
+    },
+    {
+      "text": "live",
+      "size": 13
+    },
+    {
+      "text": "think",
+      "size": 13
+    },
+    {
+      "text": "fear",
+      "size": 13
+    },
+    {
+      "text": "way",
+      "size": 13
+    },
+    {
+      "text": "run",
+      "size": 13
+    },
+    {
+      "text": "where",
+      "size": 13
+    },
+    {
+      "text": "tell",
+      "size": 13
+    },
+    {
+      "text": "gonna",
+      "size": 13
+    },
+    {
+      "text": "baby",
+      "size": 13
+    },
+    {
+      "text": "night",
+      "size": 12
+    },
+    {
+      "text": "come",
+      "size": 12
+    },
+    {
+      "text": "only",
+      "size": 12
+    },
+    {
+      "text": "how",
+      "size": 12
+    },
+    {
+      "text": "need",
+      "size": 11
+    },
+    {
+      "text": "alone",
+      "size": 11
+    },
+    {
+      "text": "back",
+      "size": 11
+    },
+    {
+      "text": "want",
+      "size": 11
+    },
+    {
+      "text": "stay",
+      "size": 11
+    },
+    {
+      "text": "ooh",
+      "size": 11
+    },
+    {
+      "text": "eyes",
+      "size": 10
+    },
+    {
+      "text": "theres",
+      "size": 10
+    },
+    {
+      "text": "yourself",
+      "size": 10
+    },
+    {
+      "text": "every",
+      "size": 10
+    },
+    {
+      "text": "give",
+      "size": 10
+    },
+    {
+      "text": "still",
+      "size": 10
+    },
+    {
+      "text": "inside",
+      "size": 10
+    },
+    {
+      "text": "dark",
+      "size": 9
+    },
+    {
+      "text": "lead",
+      "size": 9
+    },
+    {
+      "text": "more",
+      "size": 9
+    },
+    {
+      "text": "mind",
+      "size": 9
+    },
+    {
+      "text": "home",
+      "size": 9
+    },
+    {
+      "text": "myself",
+      "size": 9
+    },
+    {
+      "text": "end",
+      "size": 9
+    },
+    {
+      "text": "aint",
+      "size": 9
+    },
+    {
+      "text": "well",
+      "size": 8
+    },
+    {
+      "text": "isolate",
+      "size": 8
+    },
+    {
+      "text": "snow",
+      "size": 8
+    },
+    {
+      "text": "tonight",
+      "size": 8
+    },
+    {
+      "text": "she",
+      "size": 8
+    },
+    {
+      "text": "trying",
+      "size": 8
+    },
+    {
+      "text": "leave",
+      "size": 8
+    },
+    {
+      "text": "youll",
+      "size": 8
+    },
+    {
+      "text": "why",
+      "size": 8
+    },
+    {
+      "text": "die",
+      "size": 8
+    },
+    {
+      "text": "dream",
+      "size": 8
+    }
+  ],
+  "curiosity": [
+    {
+      "text": "what",
+      "size": 100
+    },
+    {
+      "text": "love",
+      "size": 87
+    },
+    {
+      "text": "all",
+      "size": 84
+    },
+    {
+      "text": "know",
+      "size": 84
+    },
+    {
+      "text": "when",
+      "size": 70
+    },
+    {
+      "text": "dont",
+      "size": 65
+    },
+    {
+      "text": "just",
+      "size": 61
+    },
+    {
+      "text": "yeah",
+      "size": 59
+    },
+    {
+      "text": "now",
+      "size": 54
+    },
+    {
+      "text": "want",
+      "size": 49
+    },
+    {
+      "text": "youre",
+      "size": 48
+    },
+    {
+      "text": "get",
+      "size": 46
+    },
+    {
+      "text": "tell",
+      "size": 46
+    },
+    {
+      "text": "feel",
+      "size": 43
+    },
+    {
+      "text": "where",
+      "size": 38
+    },
+    {
+      "text": "still",
+      "size": 37
+    },
+    {
+      "text": "who",
+      "size": 37
+    },
+    {
+      "text": "wanna",
+      "size": 37
+    },
+    {
+      "text": "why",
+      "size": 37
+    },
+    {
+      "text": "how",
+      "size": 37
+    },
+    {
+      "text": "one",
+      "size": 36
+    },
+    {
+      "text": "let",
+      "size": 36
+    },
+    {
+      "text": "cause",
+      "size": 35
+    },
+    {
+      "text": "say",
+      "size": 34
+    },
+    {
+      "text": "come",
+      "size": 33
+    },
+    {
+      "text": "time",
+      "size": 32
+    },
+    {
+      "text": "see",
+      "size": 31
+    },
+    {
+      "text": "make",
+      "size": 31
+    },
+    {
+      "text": "never",
+      "size": 31
+    },
+    {
+      "text": "back",
+      "size": 31
+    },
+    {
+      "text": "way",
+      "size": 30
+    },
+    {
+      "text": "got",
+      "size": 30
+    },
+    {
+      "text": "right",
+      "size": 28
+    },
+    {
+      "text": "there",
+      "size": 28
+    },
+    {
+      "text": "baby",
+      "size": 28
+    },
+    {
+      "text": "gonna",
+      "size": 28
+    },
+    {
+      "text": "dun",
+      "size": 27
+    },
+    {
+      "text": "need",
+      "size": 26
+    },
+    {
+      "text": "call",
+      "size": 25
+    },
+    {
+      "text": "not",
+      "size": 25
+    },
+    {
+      "text": "cant",
+      "size": 24
+    },
+    {
+      "text": "night",
+      "size": 24
+    },
+    {
+      "text": "here",
+      "size": 24
+    },
+    {
+      "text": "aint",
+      "size": 23
+    },
+    {
+      "text": "heart",
+      "size": 21
+    },
+    {
+      "text": "take",
+      "size": 21
+    },
+    {
+      "text": "thats",
+      "size": 21
+    },
+    {
+      "text": "her",
+      "size": 21
+    },
+    {
+      "text": "only",
+      "size": 21
+    },
+    {
+      "text": "then",
+      "size": 21
+    },
+    {
+      "text": "life",
+      "size": 20
+    },
+    {
+      "text": "she",
+      "size": 20
+    },
+    {
+      "text": "girl",
+      "size": 20
+    },
+    {
+      "text": "well",
+      "size": 20
+    },
+    {
+      "text": "name",
+      "size": 20
+    },
+    {
+      "text": "theres",
+      "size": 20
+    },
+    {
+      "text": "ill",
+      "size": 20
+    },
+    {
+      "text": "crazy",
+      "size": 19
+    },
+    {
+      "text": "ooh",
+      "size": 19
+    },
+    {
+      "text": "keep",
+      "size": 19
+    },
+    {
+      "text": "head",
+      "size": 18
+    },
+    {
+      "text": "ever",
+      "size": 18
+    },
+    {
+      "text": "some",
+      "size": 17
+    },
+    {
+      "text": "dead",
+      "size": 16
+    },
+    {
+      "text": "world",
+      "size": 16
+    },
+    {
+      "text": "living",
+      "size": 16
+    },
+    {
+      "text": "look",
+      "size": 16
+    },
+    {
+      "text": "through",
+      "size": 16
+    },
+    {
+      "text": "away",
+      "size": 15
+    },
+    {
+      "text": "find",
+      "size": 15
+    },
+    {
+      "text": "die",
+      "size": 15
+    },
+    {
+      "text": "ive",
+      "size": 15
+    },
+    {
+      "text": "mhm",
+      "size": 15
+    },
+    {
+      "text": "stay",
+      "size": 15
+    },
+    {
+      "text": "whats",
+      "size": 15
+    },
+    {
+      "text": "think",
+      "size": 14
+    },
+    {
+      "text": "hey",
+      "size": 14
+    },
+    {
+      "text": "more",
+      "size": 14
+    },
+    {
+      "text": "said",
+      "size": 14
+    },
+    {
+      "text": "eyes",
+      "size": 14
+    },
+    {
+      "text": "mind",
+      "size": 13
+    },
+    {
+      "text": "too",
+      "size": 13
+    },
+    {
+      "text": "again",
+      "size": 13
+    },
+    {
+      "text": "hold",
+      "size": 13
+    },
+    {
+      "text": "wont",
+      "size": 13
+    },
+    {
+      "text": "hear",
+      "size": 13
+    },
+    {
+      "text": "really",
+      "size": 13
+    },
+    {
+      "text": "day",
+      "size": 12
+    },
+    {
+      "text": "lets",
+      "size": 12
+    },
+    {
+      "text": "lose",
+      "size": 12
+    },
+    {
+      "text": "give",
+      "size": 12
+    },
+    {
+      "text": "sing",
+      "size": 12
+    },
+    {
+      "text": "nothing",
+      "size": 12
+    },
+    {
+      "text": "before",
+      "size": 11
+    },
+    {
+      "text": "leave",
+      "size": 11
+    },
+    {
+      "text": "always",
+      "size": 11
+    },
+    {
+      "text": "control",
+      "size": 11
+    },
+    {
+      "text": "care",
+      "size": 11
+    },
+    {
+      "text": "something",
+      "size": 11
+    },
+    {
+      "text": "him",
+      "size": 11
+    }
+  ],
+  "nervousness": [
+    {
+      "text": "dont",
+      "size": 100
+    },
+    {
+      "text": "get",
+      "size": 88
+    },
+    {
+      "text": "all",
+      "size": 84
+    },
+    {
+      "text": "not",
+      "size": 63
+    },
+    {
+      "text": "youre",
+      "size": 56
+    },
+    {
+      "text": "when",
+      "size": 55
+    },
+    {
+      "text": "too",
+      "size": 52
+    },
+    {
+      "text": "just",
+      "size": 52
+    },
+    {
+      "text": "overwhelmed",
+      "size": 50
+    },
+    {
+      "text": "now",
+      "size": 47
+    },
+    {
+      "text": "got",
+      "size": 46
+    },
+    {
+      "text": "else",
+      "size": 40
+    },
+    {
+      "text": "fine",
+      "size": 39
+    },
+    {
+      "text": "know",
+      "size": 38
+    },
+    {
+      "text": "away",
+      "size": 37
+    },
+    {
+      "text": "come",
+      "size": 35
+    },
+    {
+      "text": "well",
+      "size": 34
+    },
+    {
+      "text": "say",
+      "size": 34
+    },
+    {
+      "text": "wont",
+      "size": 33
+    },
+    {
+      "text": "somebody",
+      "size": 32
+    },
+    {
+      "text": "what",
+      "size": 32
+    },
+    {
+      "text": "love",
+      "size": 31
+    },
+    {
+      "text": "ive",
+      "size": 30
+    },
+    {
+      "text": "nervous",
+      "size": 29
+    },
+    {
+      "text": "baby",
+      "size": 29
+    },
+    {
+      "text": "easily",
+      "size": 29
+    },
+    {
+      "text": "anxiety",
+      "size": 28
+    },
+    {
+      "text": "hes",
+      "size": 28
+    },
+    {
+      "text": "day",
+      "size": 28
+    },
+    {
+      "text": "much",
+      "size": 28
+    },
+    {
+      "text": "maybe",
+      "size": 27
+    },
+    {
+      "text": "who",
+      "size": 25
+    },
+    {
+      "text": "yeah",
+      "size": 25
+    },
+    {
+      "text": "feel",
+      "size": 24
+    },
+    {
+      "text": "cause",
+      "size": 24
+    },
+    {
+      "text": "gonna",
+      "size": 24
+    },
+    {
+      "text": "worry",
+      "size": 24
+    },
+    {
+      "text": "again",
+      "size": 24
+    },
+    {
+      "text": "keep",
+      "size": 23
+    },
+    {
+      "text": "let",
+      "size": 23
+    },
+    {
+      "text": "way",
+      "size": 23
+    },
+    {
+      "text": "time",
+      "size": 22
+    },
+    {
+      "text": "mind",
+      "size": 22
+    },
+    {
+      "text": "run",
+      "size": 22
+    },
+    {
+      "text": "feels",
+      "size": 22
+    },
+    {
+      "text": "tell",
+      "size": 21
+    },
+    {
+      "text": "only",
+      "size": 21
+    },
+    {
+      "text": "need",
+      "size": 21
+    },
+    {
+      "text": "eyes",
+      "size": 20
+    },
+    {
+      "text": "every",
+      "size": 20
+    },
+    {
+      "text": "see",
+      "size": 20
+    },
+    {
+      "text": "aint",
+      "size": 20
+    },
+    {
+      "text": "wanna",
+      "size": 20
+    },
+    {
+      "text": "then",
+      "size": 19
+    },
+    {
+      "text": "even",
+      "size": 19
+    },
+    {
+      "text": "man",
+      "size": 19
+    },
+    {
+      "text": "here",
+      "size": 19
+    },
+    {
+      "text": "cant",
+      "size": 19
+    },
+    {
+      "text": "yourself",
+      "size": 19
+    },
+    {
+      "text": "thats",
+      "size": 18
+    },
+    {
+      "text": "she",
+      "size": 17
+    },
+    {
+      "text": "never",
+      "size": 17
+    },
+    {
+      "text": "whats",
+      "size": 17
+    },
+    {
+      "text": "one",
+      "size": 17
+    },
+    {
+      "text": "theres",
+      "size": 16
+    },
+    {
+      "text": "follow",
+      "size": 16
+    },
+    {
+      "text": "think",
+      "size": 16
+    },
+    {
+      "text": "hard",
+      "size": 16
+    },
+    {
+      "text": "take",
+      "size": 15
+    },
+    {
+      "text": "turn",
+      "size": 15
+    },
+    {
+      "text": "try",
+      "size": 15
+    },
+    {
+      "text": "breathe",
+      "size": 15
+    },
+    {
+      "text": "youll",
+      "size": 15
+    },
+    {
+      "text": "look",
+      "size": 15
+    },
+    {
+      "text": "mine",
+      "size": 15
+    },
+    {
+      "text": "ooh",
+      "size": 15
+    },
+    {
+      "text": "ill",
+      "size": 14
+    },
+    {
+      "text": "around",
+      "size": 14
+    },
+    {
+      "text": "give",
+      "size": 14
+    },
+    {
+      "text": "inside",
+      "size": 14
+    },
+    {
+      "text": "make",
+      "size": 14
+    },
+    {
+      "text": "makes",
+      "size": 13
+    },
+    {
+      "text": "isnt",
+      "size": 13
+    },
+    {
+      "text": "child",
+      "size": 13
+    },
+    {
+      "text": "anything",
+      "size": 13
+    },
+    {
+      "text": "another",
+      "size": 13
+    },
+    {
+      "text": "enough",
+      "size": 13
+    },
+    {
+      "text": "where",
+      "size": 13
+    },
+    {
+      "text": "someone",
+      "size": 13
+    },
+    {
+      "text": "end",
+      "size": 12
+    },
+    {
+      "text": "still",
+      "size": 12
+    },
+    {
+      "text": "silent",
+      "size": 12
+    },
+    {
+      "text": "hush",
+      "size": 12
+    },
+    {
+      "text": "how",
+      "size": 12
+    },
+    {
+      "text": "surface",
+      "size": 12
+    },
+    {
+      "text": "said",
+      "size": 11
+    },
+    {
+      "text": "judge",
+      "size": 11
+    },
+    {
+      "text": "youve",
+      "size": 11
+    },
+    {
+      "text": "making",
+      "size": 11
+    },
+    {
+      "text": "creeps",
+      "size": 11
+    }
+  ],
+  "amusement": [
+    {
+      "text": "just",
+      "size": 100
+    },
+    {
+      "text": "yeah",
+      "size": 96
+    },
+    {
+      "text": "dont",
+      "size": 95
+    },
+    {
+      "text": "know",
+      "size": 84
+    },
+    {
+      "text": "santa",
+      "size": 80
+    },
+    {
+      "text": "got",
+      "size": 79
+    },
+    {
+      "text": "all",
+      "size": 78
+    },
+    {
+      "text": "when",
+      "size": 72
+    },
+    {
+      "text": "nah",
+      "size": 68
+    },
+    {
+      "text": "what",
+      "size": 67
+    },
+    {
+      "text": "now",
+      "size": 64
+    },
+    {
+      "text": "one",
+      "size": 61
+    },
+    {
+      "text": "get",
+      "size": 57
+    },
+    {
+      "text": "let",
+      "size": 55
+    },
+    {
+      "text": "claus",
+      "size": 51
+    },
+    {
+      "text": "how",
+      "size": 49
+    },
+    {
+      "text": "she",
+      "size": 48
+    },
+    {
+      "text": "say",
+      "size": 45
+    },
+    {
+      "text": "cause",
+      "size": 43
+    },
+    {
+      "text": "youre",
+      "size": 41
+    },
+    {
+      "text": "see",
+      "size": 41
+    },
+    {
+      "text": "cant",
+      "size": 40
+    },
+    {
+      "text": "make",
+      "size": 40
+    },
+    {
+      "text": "dem",
+      "size": 39
+    },
+    {
+      "text": "ive",
+      "size": 39
+    },
+    {
+      "text": "aint",
+      "size": 38
+    },
+    {
+      "text": "around",
+      "size": 35
+    },
+    {
+      "text": "gonna",
+      "size": 35
+    },
+    {
+      "text": "well",
+      "size": 35
+    },
+    {
+      "text": "take",
+      "size": 35
+    },
+    {
+      "text": "then",
+      "size": 32
+    },
+    {
+      "text": "fire",
+      "size": 32
+    },
+    {
+      "text": "come",
+      "size": 32
+    },
+    {
+      "text": "back",
+      "size": 32
+    },
+    {
+      "text": "her",
+      "size": 32
+    },
+    {
+      "text": "never",
+      "size": 31
+    },
+    {
+      "text": "baby",
+      "size": 31
+    },
+    {
+      "text": "way",
+      "size": 31
+    },
+    {
+      "text": "him",
+      "size": 31
+    },
+    {
+      "text": "believe",
+      "size": 30
+    },
+    {
+      "text": "right",
+      "size": 30
+    },
+    {
+      "text": "time",
+      "size": 30
+    },
+    {
+      "text": "hello",
+      "size": 29
+    },
+    {
+      "text": "thats",
+      "size": 29
+    },
+    {
+      "text": "night",
+      "size": 29
+    },
+    {
+      "text": "ill",
+      "size": 28
+    },
+    {
+      "text": "tell",
+      "size": 27
+    },
+    {
+      "text": "funny",
+      "size": 27
+    },
+    {
+      "text": "kissing",
+      "size": 27
+    },
+    {
+      "text": "laugh",
+      "size": 27
+    },
+    {
+      "text": "money",
+      "size": 26
+    },
+    {
+      "text": "not",
+      "size": 26
+    },
+    {
+      "text": "mommy",
+      "size": 26
+    },
+    {
+      "text": "boy",
+      "size": 25
+    },
+    {
+      "text": "keep",
+      "size": 25
+    },
+    {
+      "text": "feel",
+      "size": 24
+    },
+    {
+      "text": "only",
+      "size": 23
+    },
+    {
+      "text": "again",
+      "size": 22
+    },
+    {
+      "text": "life",
+      "size": 22
+    },
+    {
+      "text": "here",
+      "size": 22
+    },
+    {
+      "text": "man",
+      "size": 22
+    },
+    {
+      "text": "cold",
+      "size": 22
+    },
+    {
+      "text": "really",
+      "size": 21
+    },
+    {
+      "text": "shit",
+      "size": 21
+    },
+    {
+      "text": "little",
+      "size": 21
+    },
+    {
+      "text": "every",
+      "size": 21
+    },
+    {
+      "text": "reindeer",
+      "size": 21
+    },
+    {
+      "text": "rudolph",
+      "size": 20
+    },
+    {
+      "text": "love",
+      "size": 20
+    },
+    {
+      "text": "gyal",
+      "size": 20
+    },
+    {
+      "text": "there",
+      "size": 20
+    },
+    {
+      "text": "couldnt",
+      "size": 20
+    },
+    {
+      "text": "turn",
+      "size": 19
+    },
+    {
+      "text": "nose",
+      "size": 19
+    },
+    {
+      "text": "fun",
+      "size": 19
+    },
+    {
+      "text": "bitch",
+      "size": 19
+    },
+    {
+      "text": "why",
+      "size": 19
+    },
+    {
+      "text": "hey",
+      "size": 19
+    },
+    {
+      "text": "through",
+      "size": 19
+    },
+    {
+      "text": "think",
+      "size": 18
+    },
+    {
+      "text": "world",
+      "size": 18
+    },
+    {
+      "text": "said",
+      "size": 18
+    },
+    {
+      "text": "last",
+      "size": 18
+    },
+    {
+      "text": "run",
+      "size": 18
+    },
+    {
+      "text": "nigga",
+      "size": 18
+    },
+    {
+      "text": "some",
+      "size": 18
+    },
+    {
+      "text": "stand",
+      "size": 18
+    },
+    {
+      "text": "hard",
+      "size": 18
+    },
+    {
+      "text": "saw",
+      "size": 18
+    },
+    {
+      "text": "wanna",
+      "size": 18
+    },
+    {
+      "text": "next",
+      "size": 18
+    },
+    {
+      "text": "look",
+      "size": 18
+    },
+    {
+      "text": "girl",
+      "size": 18
+    },
+    {
+      "text": "still",
+      "size": 17
+    },
+    {
+      "text": "ooh",
+      "size": 17
+    },
+    {
+      "text": "shoot",
+      "size": 17
+    },
+    {
+      "text": "gone",
+      "size": 17
+    },
+    {
+      "text": "funky",
+      "size": 17
+    },
+    {
+      "text": "gun",
+      "size": 17
+    },
+    {
+      "text": "even",
+      "size": 17
+    }
+  ],
+  "gratitude": [
+    {
+      "text": "thank",
+      "size": 100
+    },
+    {
+      "text": "all",
+      "size": 55
+    },
+    {
+      "text": "know",
+      "size": 49
+    },
+    {
+      "text": "dont",
+      "size": 41
+    },
+    {
+      "text": "just",
+      "size": 40
+    },
+    {
+      "text": "yeah",
+      "size": 40
+    },
+    {
+      "text": "alright",
+      "size": 34
+    },
+    {
+      "text": "what",
+      "size": 32
+    },
+    {
+      "text": "one",
+      "size": 30
+    },
+    {
+      "text": "say",
+      "size": 30
+    },
+    {
+      "text": "back",
+      "size": 26
+    },
+    {
+      "text": "now",
+      "size": 26
+    },
+    {
+      "text": "get",
+      "size": 25
+    },
+    {
+      "text": "got",
+      "size": 24
+    },
+    {
+      "text": "next",
+      "size": 24
+    },
+    {
+      "text": "here",
+      "size": 24
+    },
+    {
+      "text": "year",
+      "size": 23
+    },
+    {
+      "text": "never",
+      "size": 23
+    },
+    {
+      "text": "god",
+      "size": 23
+    },
+    {
+      "text": "christmas",
+      "size": 22
+    },
+    {
+      "text": "things",
+      "size": 21
+    },
+    {
+      "text": "make",
+      "size": 21
+    },
+    {
+      "text": "ill",
+      "size": 21
+    },
+    {
+      "text": "baby",
+      "size": 21
+    },
+    {
+      "text": "little",
+      "size": 21
+    },
+    {
+      "text": "thanks",
+      "size": 21
+    },
+    {
+      "text": "hey",
+      "size": 21
+    },
+    {
+      "text": "when",
+      "size": 20
+    },
+    {
+      "text": "long",
+      "size": 20
+    },
+    {
+      "text": "only",
+      "size": 19
+    },
+    {
+      "text": "youre",
+      "size": 19
+    },
+    {
+      "text": "time",
+      "size": 18
+    },
+    {
+      "text": "not",
+      "size": 18
+    },
+    {
+      "text": "thats",
+      "size": 18
+    },
+    {
+      "text": "mama",
+      "size": 18
+    },
+    {
+      "text": "come",
+      "size": 17
+    },
+    {
+      "text": "lawdy",
+      "size": 16
+    },
+    {
+      "text": "cause",
+      "size": 16
+    },
+    {
+      "text": "love",
+      "size": 15
+    },
+    {
+      "text": "ive",
+      "size": 14
+    },
+    {
+      "text": "good",
+      "size": 14
+    },
+    {
+      "text": "well",
+      "size": 14
+    },
+    {
+      "text": "life",
+      "size": 14
+    },
+    {
+      "text": "wanna",
+      "size": 13
+    },
+    {
+      "text": "going",
+      "size": 13
+    },
+    {
+      "text": "something",
+      "size": 13
+    },
+    {
+      "text": "how",
+      "size": 13
+    },
+    {
+      "text": "day",
+      "size": 13
+    },
+    {
+      "text": "ooh",
+      "size": 13
+    },
+    {
+      "text": "right",
+      "size": 13
+    },
+    {
+      "text": "lets",
+      "size": 13
+    },
+    {
+      "text": "see",
+      "size": 12
+    },
+    {
+      "text": "note",
+      "size": 12
+    },
+    {
+      "text": "home",
+      "size": 12
+    },
+    {
+      "text": "tell",
+      "size": 12
+    },
+    {
+      "text": "lord",
+      "size": 12
+    },
+    {
+      "text": "always",
+      "size": 12
+    },
+    {
+      "text": "more",
+      "size": 11
+    },
+    {
+      "text": "away",
+      "size": 11
+    },
+    {
+      "text": "mean",
+      "size": 11
+    },
+    {
+      "text": "show",
+      "size": 11
+    },
+    {
+      "text": "then",
+      "size": 11
+    },
+    {
+      "text": "want",
+      "size": 10
+    },
+    {
+      "text": "man",
+      "size": 10
+    },
+    {
+      "text": "way",
+      "size": 10
+    },
+    {
+      "text": "look",
+      "size": 10
+    },
+    {
+      "text": "ever",
+      "size": 10
+    },
+    {
+      "text": "night",
+      "size": 9
+    },
+    {
+      "text": "she",
+      "size": 9
+    },
+    {
+      "text": "need",
+      "size": 9
+    },
+    {
+      "text": "name",
+      "size": 9
+    },
+    {
+      "text": "made",
+      "size": 9
+    },
+    {
+      "text": "there",
+      "size": 9
+    },
+    {
+      "text": "workers",
+      "size": 9
+    },
+    {
+      "text": "around",
+      "size": 9
+    },
+    {
+      "text": "nice",
+      "size": 9
+    },
+    {
+      "text": "theres",
+      "size": 8
+    },
+    {
+      "text": "youd",
+      "size": 8
+    },
+    {
+      "text": "nothing",
+      "size": 8
+    },
+    {
+      "text": "friend",
+      "size": 8
+    },
+    {
+      "text": "remember",
+      "size": 8
+    },
+    {
+      "text": "some",
+      "size": 8
+    },
+    {
+      "text": "where",
+      "size": 8
+    },
+    {
+      "text": "friends",
+      "size": 8
+    },
+    {
+      "text": "sing",
+      "size": 8
+    },
+    {
+      "text": "said",
+      "size": 8
+    },
+    {
+      "text": "gonna",
+      "size": 8
+    },
+    {
+      "text": "bout",
+      "size": 8
+    },
+    {
+      "text": "through",
+      "size": 8
+    },
+    {
+      "text": "cant",
+      "size": 8
+    },
+    {
+      "text": "new",
+      "size": 8
+    },
+    {
+      "text": "find",
+      "size": 8
+    },
+    {
+      "text": "clean",
+      "size": 8
+    },
+    {
+      "text": "deserve",
+      "size": 8
+    },
+    {
+      "text": "theyre",
+      "size": 7
+    },
+    {
+      "text": "lost",
+      "size": 7
+    },
+    {
+      "text": "why",
+      "size": 7
+    },
+    {
+      "text": "face",
+      "size": 7
+    },
+    {
+      "text": "think",
+      "size": 7
+    },
+    {
+      "text": "youve",
+      "size": 7
+    }
+  ],
+  "anger": [
+    {
+      "text": "dont",
+      "size": 100
+    },
+    {
+      "text": "hate",
+      "size": 92
+    },
+    {
+      "text": "fuck",
+      "size": 79
+    },
+    {
+      "text": "all",
+      "size": 72
+    },
+    {
+      "text": "tell",
+      "size": 62
+    },
+    {
+      "text": "know",
+      "size": 59
+    },
+    {
+      "text": "get",
+      "size": 57
+    },
+    {
+      "text": "youre",
+      "size": 54
+    },
+    {
+      "text": "how",
+      "size": 48
+    },
+    {
+      "text": "what",
+      "size": 48
+    },
+    {
+      "text": "yeah",
+      "size": 44
+    },
+    {
+      "text": "just",
+      "size": 43
+    },
+    {
+      "text": "love",
+      "size": 43
+    },
+    {
+      "text": "now",
+      "size": 43
+    },
+    {
+      "text": "never",
+      "size": 39
+    },
+    {
+      "text": "one",
+      "size": 39
+    },
+    {
+      "text": "cant",
+      "size": 39
+    },
+    {
+      "text": "bad",
+      "size": 37
+    },
+    {
+      "text": "not",
+      "size": 36
+    },
+    {
+      "text": "people",
+      "size": 36
+    },
+    {
+      "text": "when",
+      "size": 36
+    },
+    {
+      "text": "got",
+      "size": 35
+    },
+    {
+      "text": "baby",
+      "size": 35
+    },
+    {
+      "text": "beautiful",
+      "size": 35
+    },
+    {
+      "text": "see",
+      "size": 33
+    },
+    {
+      "text": "hey",
+      "size": 31
+    },
+    {
+      "text": "why",
+      "size": 30
+    },
+    {
+      "text": "bitch",
+      "size": 30
+    },
+    {
+      "text": "lies",
+      "size": 28
+    },
+    {
+      "text": "fucking",
+      "size": 28
+    },
+    {
+      "text": "shit",
+      "size": 28
+    },
+    {
+      "text": "away",
+      "size": 28
+    },
+    {
+      "text": "say",
+      "size": 28
+    },
+    {
+      "text": "ill",
+      "size": 27
+    },
+    {
+      "text": "want",
+      "size": 27
+    },
+    {
+      "text": "aint",
+      "size": 26
+    },
+    {
+      "text": "cause",
+      "size": 26
+    },
+    {
+      "text": "time",
+      "size": 25
+    },
+    {
+      "text": "ass",
+      "size": 25
+    },
+    {
+      "text": "gonna",
+      "size": 24
+    },
+    {
+      "text": "wanna",
+      "size": 24
+    },
+    {
+      "text": "back",
+      "size": 23
+    },
+    {
+      "text": "day",
+      "size": 23
+    },
+    {
+      "text": "give",
+      "size": 22
+    },
+    {
+      "text": "take",
+      "size": 22
+    },
+    {
+      "text": "again",
+      "size": 21
+    },
+    {
+      "text": "way",
+      "size": 20
+    },
+    {
+      "text": "man",
+      "size": 20
+    },
+    {
+      "text": "bitches",
+      "size": 20
+    },
+    {
+      "text": "feel",
+      "size": 19
+    },
+    {
+      "text": "let",
+      "size": 19
+    },
+    {
+      "text": "chase",
+      "size": 19
+    },
+    {
+      "text": "still",
+      "size": 19
+    },
+    {
+      "text": "need",
+      "size": 18
+    },
+    {
+      "text": "make",
+      "size": 18
+    },
+    {
+      "text": "shy",
+      "size": 17
+    },
+    {
+      "text": "come",
+      "size": 17
+    },
+    {
+      "text": "youll",
+      "size": 16
+    },
+    {
+      "text": "ive",
+      "size": 16
+    },
+    {
+      "text": "ooh",
+      "size": 16
+    },
+    {
+      "text": "live",
+      "size": 16
+    },
+    {
+      "text": "fuckin",
+      "size": 15
+    },
+    {
+      "text": "gon",
+      "size": 15
+    },
+    {
+      "text": "life",
+      "size": 15
+    },
+    {
+      "text": "made",
+      "size": 15
+    },
+    {
+      "text": "something",
+      "size": 15
+    },
+    {
+      "text": "think",
+      "size": 15
+    },
+    {
+      "text": "look",
+      "size": 15
+    },
+    {
+      "text": "more",
+      "size": 15
+    },
+    {
+      "text": "who",
+      "size": 15
+    },
+    {
+      "text": "break",
+      "size": 15
+    },
+    {
+      "text": "here",
+      "size": 14
+    },
+    {
+      "text": "her",
+      "size": 14
+    },
+    {
+      "text": "every",
+      "size": 14
+    },
+    {
+      "text": "right",
+      "size": 14
+    },
+    {
+      "text": "die",
+      "size": 14
+    },
+    {
+      "text": "theres",
+      "size": 14
+    },
+    {
+      "text": "she",
+      "size": 14
+    },
+    {
+      "text": "thats",
+      "size": 14
+    },
+    {
+      "text": "through",
+      "size": 13
+    },
+    {
+      "text": "kill",
+      "size": 13
+    },
+    {
+      "text": "head",
+      "size": 13
+    },
+    {
+      "text": "lalalalala",
+      "size": 13
+    },
+    {
+      "text": "keep",
+      "size": 13
+    },
+    {
+      "text": "friends",
+      "size": 12
+    },
+    {
+      "text": "three",
+      "size": 12
+    },
+    {
+      "text": "heart",
+      "size": 12
+    },
+    {
+      "text": "tryna",
+      "size": 12
+    },
+    {
+      "text": "hell",
+      "size": 12
+    },
+    {
+      "text": "replace",
+      "size": 12
+    },
+    {
+      "text": "face",
+      "size": 12
+    },
+    {
+      "text": "where",
+      "size": 12
+    },
+    {
+      "text": "hard",
+      "size": 11
+    },
+    {
+      "text": "nigga",
+      "size": 11
+    },
+    {
+      "text": "too",
+      "size": 11
+    },
+    {
+      "text": "wont",
+      "size": 11
+    },
+    {
+      "text": "wish",
+      "size": 11
+    },
+    {
+      "text": "niggas",
+      "size": 11
+    },
+    {
+      "text": "some",
+      "size": 10
+    },
+    {
+      "text": "then",
+      "size": 10
+    }
+  ],
+  "remorse": [
+    {
+      "text": "sorry",
+      "size": 100
+    },
+    {
+      "text": "yeah",
+      "size": 97
+    },
+    {
+      "text": "love",
+      "size": 92
+    },
+    {
+      "text": "what",
+      "size": 89
+    },
+    {
+      "text": "leave",
+      "size": 88
+    },
+    {
+      "text": "before",
+      "size": 83
+    },
+    {
+      "text": "all",
+      "size": 80
+    },
+    {
+      "text": "know",
+      "size": 73
+    },
+    {
+      "text": "never",
+      "size": 62
+    },
+    {
+      "text": "show",
+      "size": 57
+    },
+    {
+      "text": "ill",
+      "size": 56
+    },
+    {
+      "text": "when",
+      "size": 55
+    },
+    {
+      "text": "too",
+      "size": 53
+    },
+    {
+      "text": "just",
+      "size": 52
+    },
+    {
+      "text": "time",
+      "size": 52
+    },
+    {
+      "text": "heart",
+      "size": 47
+    },
+    {
+      "text": "dont",
+      "size": 44
+    },
+    {
+      "text": "piece",
+      "size": 42
+    },
+    {
+      "text": "now",
+      "size": 37
+    },
+    {
+      "text": "how",
+      "size": 36
+    },
+    {
+      "text": "cause",
+      "size": 36
+    },
+    {
+      "text": "way",
+      "size": 36
+    },
+    {
+      "text": "not",
+      "size": 34
+    },
+    {
+      "text": "wanna",
+      "size": 32
+    },
+    {
+      "text": "getting",
+      "size": 31
+    },
+    {
+      "text": "one",
+      "size": 31
+    },
+    {
+      "text": "ive",
+      "size": 31
+    },
+    {
+      "text": "say",
+      "size": 30
+    },
+    {
+      "text": "get",
+      "size": 30
+    },
+    {
+      "text": "wont",
+      "size": 30
+    },
+    {
+      "text": "want",
+      "size": 30
+    },
+    {
+      "text": "alone",
+      "size": 29
+    },
+    {
+      "text": "youre",
+      "size": 28
+    },
+    {
+      "text": "take",
+      "size": 27
+    },
+    {
+      "text": "things",
+      "size": 27
+    },
+    {
+      "text": "through",
+      "size": 27
+    },
+    {
+      "text": "got",
+      "size": 25
+    },
+    {
+      "text": "see",
+      "size": 24
+    },
+    {
+      "text": "let",
+      "size": 24
+    },
+    {
+      "text": "right",
+      "size": 24
+    },
+    {
+      "text": "head",
+      "size": 23
+    },
+    {
+      "text": "dancing",
+      "size": 23
+    },
+    {
+      "text": "change",
+      "size": 23
+    },
+    {
+      "text": "everything",
+      "size": 23
+    },
+    {
+      "text": "something",
+      "size": 23
+    },
+    {
+      "text": "make",
+      "size": 23
+    },
+    {
+      "text": "keep",
+      "size": 22
+    },
+    {
+      "text": "back",
+      "size": 21
+    },
+    {
+      "text": "calling",
+      "size": 21
+    },
+    {
+      "text": "eyes",
+      "size": 20
+    },
+    {
+      "text": "promise",
+      "size": 20
+    },
+    {
+      "text": "gotta",
+      "size": 20
+    },
+    {
+      "text": "find",
+      "size": 20
+    },
+    {
+      "text": "tell",
+      "size": 19
+    },
+    {
+      "text": "messing",
+      "size": 19
+    },
+    {
+      "text": "stop",
+      "size": 19
+    },
+    {
+      "text": "need",
+      "size": 19
+    },
+    {
+      "text": "far",
+      "size": 18
+    },
+    {
+      "text": "dark",
+      "size": 18
+    },
+    {
+      "text": "edge",
+      "size": 18
+    },
+    {
+      "text": "cant",
+      "size": 18
+    },
+    {
+      "text": "done",
+      "size": 17
+    },
+    {
+      "text": "good",
+      "size": 17
+    },
+    {
+      "text": "only",
+      "size": 17
+    },
+    {
+      "text": "thinking",
+      "size": 17
+    },
+    {
+      "text": "bed",
+      "size": 17
+    },
+    {
+      "text": "mess",
+      "size": 17
+    },
+    {
+      "text": "bored",
+      "size": 17
+    },
+    {
+      "text": "where",
+      "size": 16
+    },
+    {
+      "text": "night",
+      "size": 16
+    },
+    {
+      "text": "enough",
+      "size": 16
+    },
+    {
+      "text": "baby",
+      "size": 16
+    },
+    {
+      "text": "told",
+      "size": 16
+    },
+    {
+      "text": "else",
+      "size": 15
+    },
+    {
+      "text": "touch",
+      "size": 15
+    },
+    {
+      "text": "call",
+      "size": 15
+    },
+    {
+      "text": "wake",
+      "size": 15
+    },
+    {
+      "text": "still",
+      "size": 15
+    },
+    {
+      "text": "come",
+      "size": 15
+    },
+    {
+      "text": "left",
+      "size": 15
+    },
+    {
+      "text": "think",
+      "size": 14
+    },
+    {
+      "text": "feel",
+      "size": 14
+    },
+    {
+      "text": "gone",
+      "size": 13
+    },
+    {
+      "text": "bout",
+      "size": 13
+    },
+    {
+      "text": "many",
+      "size": 13
+    },
+    {
+      "text": "turning",
+      "size": 13
+    },
+    {
+      "text": "around",
+      "size": 13
+    },
+    {
+      "text": "physical",
+      "size": 13
+    },
+    {
+      "text": "subliminal",
+      "size": 13
+    },
+    {
+      "text": "regret",
+      "size": 13
+    },
+    {
+      "text": "doubt",
+      "size": 13
+    },
+    {
+      "text": "once",
+      "size": 13
+    },
+    {
+      "text": "late",
+      "size": 13
+    },
+    {
+      "text": "hear",
+      "size": 12
+    },
+    {
+      "text": "calls",
+      "size": 12
+    },
+    {
+      "text": "said",
+      "size": 12
+    },
+    {
+      "text": "another",
+      "size": 12
+    },
+    {
+      "text": "remain",
+      "size": 12
+    },
+    {
+      "text": "made",
+      "size": 12
+    },
+    {
+      "text": "believe",
+      "size": 12
+    }
+  ],
+  "surprise": [
+    {
+      "text": "holiday",
+      "size": 100
+    },
+    {
+      "text": "babadum",
+      "size": 44
+    },
+    {
+      "text": "heart",
+      "size": 33
+    },
+    {
+      "text": "bababadum",
+      "size": 29
+    },
+    {
+      "text": "dumb",
+      "size": 25
+    },
+    {
+      "text": "god",
+      "size": 21
+    },
+    {
+      "text": "head",
+      "size": 21
+    },
+    {
+      "text": "rock",
+      "size": 20
+    },
+    {
+      "text": "never",
+      "size": 18
+    },
+    {
+      "text": "cause",
+      "size": 16
+    },
+    {
+      "text": "goes",
+      "size": 15
+    },
+    {
+      "text": "when",
+      "size": 15
+    },
+    {
+      "text": "flying",
+      "size": 15
+    },
+    {
+      "text": "babadadum",
+      "size": 14
+    },
+    {
+      "text": "stop",
+      "size": 14
+    },
+    {
+      "text": "cant",
+      "size": 14
+    },
+    {
+      "text": "through",
+      "size": 14
+    },
+    {
+      "text": "suddenly",
+      "size": 14
+    },
+    {
+      "text": "just",
+      "size": 13
+    },
+    {
+      "text": "feeling",
+      "size": 13
+    },
+    {
+      "text": "yeah",
+      "size": 13
+    },
+    {
+      "text": "tells",
+      "size": 13
+    },
+    {
+      "text": "one",
+      "size": 12
+    },
+    {
+      "text": "ive",
+      "size": 12
+    },
+    {
+      "text": "heard",
+      "size": 12
+    },
+    {
+      "text": "grapevine",
+      "size": 11
+    },
+    {
+      "text": "time",
+      "size": 11
+    },
+    {
+      "text": "what",
+      "size": 11
+    },
+    {
+      "text": "see",
+      "size": 10
+    },
+    {
+      "text": "believe",
+      "size": 10
+    },
+    {
+      "text": "something",
+      "size": 10
+    },
+    {
+      "text": "not",
+      "size": 10
+    },
+    {
+      "text": "season",
+      "size": 9
+    },
+    {
+      "text": "all",
+      "size": 9
+    },
+    {
+      "text": "ooh",
+      "size": 9
+    },
+    {
+      "text": "things",
+      "size": 8
+    },
+    {
+      "text": "everyone",
+      "size": 8
+    },
+    {
+      "text": "make",
+      "size": 8
+    },
+    {
+      "text": "good",
+      "size": 8
+    },
+    {
+      "text": "frozen",
+      "size": 8
+    },
+    {
+      "text": "night",
+      "size": 8
+    },
+    {
+      "text": "motion",
+      "size": 8
+    },
+    {
+      "text": "feel",
+      "size": 8
+    },
+    {
+      "text": "dont",
+      "size": 7
+    },
+    {
+      "text": "run",
+      "size": 7
+    },
+    {
+      "text": "christmas",
+      "size": 7
+    },
+    {
+      "text": "body",
+      "size": 7
+    },
+    {
+      "text": "hey",
+      "size": 7
+    },
+    {
+      "text": "man",
+      "size": 7
+    },
+    {
+      "text": "baby",
+      "size": 7
+    },
+    {
+      "text": "ever",
+      "size": 6
+    },
+    {
+      "text": "now",
+      "size": 6
+    },
+    {
+      "text": "know",
+      "size": 6
+    },
+    {
+      "text": "gettin",
+      "size": 6
+    },
+    {
+      "text": "year",
+      "size": 6
+    },
+    {
+      "text": "lil",
+      "size": 6
+    },
+    {
+      "text": "leaving",
+      "size": 6
+    },
+    {
+      "text": "shakin",
+      "size": 6
+    },
+    {
+      "text": "misbehaving",
+      "size": 6
+    },
+    {
+      "text": "feelings",
+      "size": 6
+    },
+    {
+      "text": "more",
+      "size": 6
+    },
+    {
+      "text": "wonder",
+      "size": 6
+    },
+    {
+      "text": "she",
+      "size": 6
+    },
+    {
+      "text": "oooo",
+      "size": 6
+    },
+    {
+      "text": "than",
+      "size": 6
+    },
+    {
+      "text": "there",
+      "size": 6
+    },
+    {
+      "text": "got",
+      "size": 6
+    },
+    {
+      "text": "mind",
+      "size": 5
+    },
+    {
+      "text": "who",
+      "size": 5
+    },
+    {
+      "text": "get",
+      "size": 5
+    },
+    {
+      "text": "think",
+      "size": 5
+    },
+    {
+      "text": "said",
+      "size": 5
+    },
+    {
+      "text": "tell",
+      "size": 5
+    },
+    {
+      "text": "air",
+      "size": 5
+    },
+    {
+      "text": "away",
+      "size": 5
+    },
+    {
+      "text": "much",
+      "size": 5
+    },
+    {
+      "text": "say",
+      "size": 4
+    },
+    {
+      "text": "how",
+      "size": 4
+    },
+    {
+      "text": "bells",
+      "size": 4
+    },
+    {
+      "text": "way",
+      "size": 4
+    },
+    {
+      "text": "freezing",
+      "size": 4
+    },
+    {
+      "text": "trouble",
+      "size": 4
+    },
+    {
+      "text": "ringing",
+      "size": 4
+    },
+    {
+      "text": "cheer",
+      "size": 4
+    },
+    {
+      "text": "try",
+      "size": 4
+    },
+    {
+      "text": "look",
+      "size": 4
+    },
+    {
+      "text": "find",
+      "size": 4
+    },
+    {
+      "text": "bag",
+      "size": 4
+    },
+    {
+      "text": "huh",
+      "size": 4
+    },
+    {
+      "text": "why",
+      "size": 3
+    },
+    {
+      "text": "come",
+      "size": 3
+    },
+    {
+      "text": "enough",
+      "size": 3
+    },
+    {
+      "text": "light",
+      "size": 3
+    },
+    {
+      "text": "love",
+      "size": 3
+    },
+    {
+      "text": "apart",
+      "size": 3
+    },
+    {
+      "text": "knew",
+      "size": 3
+    },
+    {
+      "text": "let",
+      "size": 3
+    },
+    {
+      "text": "lights",
+      "size": 3
+    },
+    {
+      "text": "done",
+      "size": 3
+    },
+    {
+      "text": "eyes",
+      "size": 3
+    }
+  ],
+  "disgust": [
+    {
+      "text": "dust",
+      "size": 100
+    },
+    {
+      "text": "her",
+      "size": 95
+    },
+    {
+      "text": "now",
+      "size": 93
+    },
+    {
+      "text": "skin",
+      "size": 76
+    },
+    {
+      "text": "youre",
+      "size": 74
+    },
+    {
+      "text": "bone",
+      "size": 72
+    },
+    {
+      "text": "rust",
+      "size": 69
+    },
+    {
+      "text": "blood",
+      "size": 65
+    },
+    {
+      "text": "steel",
+      "size": 65
+    },
+    {
+      "text": "let",
+      "size": 60
+    },
+    {
+      "text": "dead",
+      "size": 60
+    },
+    {
+      "text": "right",
+      "size": 58
+    },
+    {
+      "text": "she",
+      "size": 58
+    },
+    {
+      "text": "baby",
+      "size": 58
+    },
+    {
+      "text": "away",
+      "size": 51
+    },
+    {
+      "text": "gore",
+      "size": 51
+    },
+    {
+      "text": "back",
+      "size": 48
+    },
+    {
+      "text": "ash",
+      "size": 46
+    },
+    {
+      "text": "ashes",
+      "size": 46
+    },
+    {
+      "text": "left",
+      "size": 44
+    },
+    {
+      "text": "tear",
+      "size": 44
+    },
+    {
+      "text": "nasty",
+      "size": 44
+    },
+    {
+      "text": "corpse",
+      "size": 44
+    },
+    {
+      "text": "life",
+      "size": 41
+    },
+    {
+      "text": "rot",
+      "size": 41
+    },
+    {
+      "text": "bumblebee",
+      "size": 41
+    },
+    {
+      "text": "ill",
+      "size": 41
+    },
+    {
+      "text": "just",
+      "size": 39
+    },
+    {
+      "text": "fat",
+      "size": 39
+    },
+    {
+      "text": "when",
+      "size": 37
+    },
+    {
+      "text": "mortuary",
+      "size": 37
+    },
+    {
+      "text": "pus",
+      "size": 37
+    },
+    {
+      "text": "punaninani",
+      "size": 37
+    },
+    {
+      "text": "tsunaminami",
+      "size": 37
+    },
+    {
+      "text": "ahahah",
+      "size": 37
+    },
+    {
+      "text": "ahah",
+      "size": 37
+    },
+    {
+      "text": "what",
+      "size": 34
+    },
+    {
+      "text": "dont",
+      "size": 34
+    },
+    {
+      "text": "advanced",
+      "size": 34
+    },
+    {
+      "text": "all",
+      "size": 32
+    },
+    {
+      "text": "death",
+      "size": 32
+    },
+    {
+      "text": "way",
+      "size": 32
+    },
+    {
+      "text": "head",
+      "size": 32
+    },
+    {
+      "text": "evil",
+      "size": 32
+    },
+    {
+      "text": "bed",
+      "size": 32
+    },
+    {
+      "text": "rotten",
+      "size": 32
+    },
+    {
+      "text": "foul",
+      "size": 32
+    },
+    {
+      "text": "body",
+      "size": 32
+    },
+    {
+      "text": "remains",
+      "size": 32
+    },
+    {
+      "text": "devils",
+      "size": 30
+    },
+    {
+      "text": "day",
+      "size": 30
+    },
+    {
+      "text": "waste",
+      "size": 30
+    },
+    {
+      "text": "night",
+      "size": 30
+    },
+    {
+      "text": "hell",
+      "size": 27
+    },
+    {
+      "text": "excrement",
+      "size": 27
+    },
+    {
+      "text": "gets",
+      "size": 27
+    },
+    {
+      "text": "grinch",
+      "size": 27
+    },
+    {
+      "text": "inside",
+      "size": 27
+    },
+    {
+      "text": "eating",
+      "size": 27
+    },
+    {
+      "text": "torn",
+      "size": 27
+    },
+    {
+      "text": "necrotic",
+      "size": 27
+    },
+    {
+      "text": "carnage",
+      "size": 27
+    },
+    {
+      "text": "dark",
+      "size": 27
+    },
+    {
+      "text": "one",
+      "size": 25
+    },
+    {
+      "text": "flesh",
+      "size": 25
+    },
+    {
+      "text": "mind",
+      "size": 25
+    },
+    {
+      "text": "gone",
+      "size": 25
+    },
+    {
+      "text": "slab",
+      "size": 25
+    },
+    {
+      "text": "not",
+      "size": 23
+    },
+    {
+      "text": "disgust",
+      "size": 23
+    },
+    {
+      "text": "rotting",
+      "size": 23
+    },
+    {
+      "text": "decay",
+      "size": 23
+    },
+    {
+      "text": "bloody",
+      "size": 23
+    },
+    {
+      "text": "hooks",
+      "size": 23
+    },
+    {
+      "text": "chest",
+      "size": 23
+    },
+    {
+      "text": "mortis",
+      "size": 23
+    },
+    {
+      "text": "oozing",
+      "size": 23
+    },
+    {
+      "text": "mess",
+      "size": 23
+    },
+    {
+      "text": "hastily",
+      "size": 23
+    },
+    {
+      "text": "pyathrosis",
+      "size": 23
+    },
+    {
+      "text": "there",
+      "size": 23
+    },
+    {
+      "text": "fun",
+      "size": 23
+    },
+    {
+      "text": "morgue",
+      "size": 23
+    },
+    {
+      "text": "autodigestion",
+      "size": 23
+    },
+    {
+      "text": "mutation",
+      "size": 23
+    },
+    {
+      "text": "stitched",
+      "size": 23
+    },
+    {
+      "text": "organs",
+      "size": 23
+    },
+    {
+      "text": "totally",
+      "size": 23
+    },
+    {
+      "text": "bleed",
+      "size": 23
+    },
+    {
+      "text": "lil",
+      "size": 23
+    },
+    {
+      "text": "eat",
+      "size": 23
+    },
+    {
+      "text": "saw",
+      "size": 20
+    },
+    {
+      "text": "black",
+      "size": 20
+    },
+    {
+      "text": "everything",
+      "size": 20
+    },
+    {
+      "text": "putrefaction",
+      "size": 20
+    },
+    {
+      "text": "ever",
+      "size": 20
+    },
+    {
+      "text": "dirt",
+      "size": 20
+    },
+    {
+      "text": "breathe",
+      "size": 20
+    },
+    {
+      "text": "stinking",
+      "size": 20
+    },
+    {
+      "text": "face",
+      "size": 20
+    }
+  ],
+  "excitement": [
+    {
+      "text": "christmas",
+      "size": 100
+    },
+    {
+      "text": "little",
+      "size": 60
+    },
+    {
+      "text": "all",
+      "size": 54
+    },
+    {
+      "text": "nick",
+      "size": 48
+    },
+    {
+      "text": "saint",
+      "size": 48
+    },
+    {
+      "text": "time",
+      "size": 38
+    },
+    {
+      "text": "cant",
+      "size": 37
+    },
+    {
+      "text": "take",
+      "size": 35
+    },
+    {
+      "text": "wait",
+      "size": 35
+    },
+    {
+      "text": "come",
+      "size": 31
+    },
+    {
+      "text": "yeah",
+      "size": 30
+    },
+    {
+      "text": "just",
+      "size": 30
+    },
+    {
+      "text": "wanna",
+      "size": 29
+    },
+    {
+      "text": "get",
+      "size": 28
+    },
+    {
+      "text": "now",
+      "size": 27
+    },
+    {
+      "text": "year",
+      "size": 27
+    },
+    {
+      "text": "know",
+      "size": 27
+    },
+    {
+      "text": "when",
+      "size": 26
+    },
+    {
+      "text": "ooh",
+      "size": 26
+    },
+    {
+      "text": "got",
+      "size": 26
+    },
+    {
+      "text": "run",
+      "size": 26
+    },
+    {
+      "text": "hey",
+      "size": 26
+    },
+    {
+      "text": "every",
+      "size": 25
+    },
+    {
+      "text": "baby",
+      "size": 24
+    },
+    {
+      "text": "way",
+      "size": 23
+    },
+    {
+      "text": "here",
+      "size": 23
+    },
+    {
+      "text": "see",
+      "size": 22
+    },
+    {
+      "text": "beat",
+      "size": 22
+    },
+    {
+      "text": "unwrap",
+      "size": 22
+    },
+    {
+      "text": "one",
+      "size": 21
+    },
+    {
+      "text": "happy",
+      "size": 21
+    },
+    {
+      "text": "youre",
+      "size": 21
+    },
+    {
+      "text": "back",
+      "size": 20
+    },
+    {
+      "text": "clap",
+      "size": 19
+    },
+    {
+      "text": "holiday",
+      "size": 19
+    },
+    {
+      "text": "bells",
+      "size": 19
+    },
+    {
+      "text": "day",
+      "size": 18
+    },
+    {
+      "text": "night",
+      "size": 18
+    },
+    {
+      "text": "hear",
+      "size": 17
+    },
+    {
+      "text": "ive",
+      "size": 17
+    },
+    {
+      "text": "cause",
+      "size": 17
+    },
+    {
+      "text": "her",
+      "size": 16
+    },
+    {
+      "text": "silver",
+      "size": 16
+    },
+    {
+      "text": "ill",
+      "size": 15
+    },
+    {
+      "text": "feel",
+      "size": 15
+    },
+    {
+      "text": "never",
+      "size": 15
+    },
+    {
+      "text": "lets",
+      "size": 15
+    },
+    {
+      "text": "roof",
+      "size": 15
+    },
+    {
+      "text": "what",
+      "size": 15
+    },
+    {
+      "text": "merry",
+      "size": 14
+    },
+    {
+      "text": "boys",
+      "size": 14
+    },
+    {
+      "text": "well",
+      "size": 14
+    },
+    {
+      "text": "she",
+      "size": 14
+    },
+    {
+      "text": "gonna",
+      "size": 14
+    },
+    {
+      "text": "say",
+      "size": 14
+    },
+    {
+      "text": "home",
+      "size": 13
+    },
+    {
+      "text": "more",
+      "size": 13
+    },
+    {
+      "text": "reindeer",
+      "size": 13
+    },
+    {
+      "text": "then",
+      "size": 13
+    },
+    {
+      "text": "bass",
+      "size": 13
+    },
+    {
+      "text": "dont",
+      "size": 13
+    },
+    {
+      "text": "town",
+      "size": 13
+    },
+    {
+      "text": "love",
+      "size": 12
+    },
+    {
+      "text": "marry",
+      "size": 12
+    },
+    {
+      "text": "skate",
+      "size": 12
+    },
+    {
+      "text": "comes",
+      "size": 12
+    },
+    {
+      "text": "party",
+      "size": 12
+    },
+    {
+      "text": "boom",
+      "size": 12
+    },
+    {
+      "text": "dancing",
+      "size": 12
+    },
+    {
+      "text": "where",
+      "size": 11
+    },
+    {
+      "text": "rock",
+      "size": 11
+    },
+    {
+      "text": "tree",
+      "size": 11
+    },
+    {
+      "text": "let",
+      "size": 11
+    },
+    {
+      "text": "snow",
+      "size": 11
+    },
+    {
+      "text": "body",
+      "size": 11
+    },
+    {
+      "text": "hallelujah",
+      "size": 11
+    },
+    {
+      "text": "door",
+      "size": 10
+    },
+    {
+      "text": "dance",
+      "size": 10
+    },
+    {
+      "text": "please",
+      "size": 10
+    },
+    {
+      "text": "christmastime",
+      "size": 10
+    },
+    {
+      "text": "nothing",
+      "size": 10
+    },
+    {
+      "text": "feeling",
+      "size": 10
+    },
+    {
+      "text": "man",
+      "size": 10
+    },
+    {
+      "text": "keep",
+      "size": 10
+    },
+    {
+      "text": "santa",
+      "size": 10
+    },
+    {
+      "text": "dream",
+      "size": 10
+    },
+    {
+      "text": "life",
+      "size": 9
+    },
+    {
+      "text": "through",
+      "size": 9
+    },
+    {
+      "text": "eyes",
+      "size": 9
+    },
+    {
+      "text": "world",
+      "size": 9
+    },
+    {
+      "text": "look",
+      "size": 9
+    },
+    {
+      "text": "roll",
+      "size": 9
+    },
+    {
+      "text": "drop",
+      "size": 9
+    },
+    {
+      "text": "girl",
+      "size": 9
+    },
+    {
+      "text": "slide",
+      "size": 9
+    },
+    {
+      "text": "right",
+      "size": 9
+    },
+    {
+      "text": "watch",
+      "size": 9
+    },
+    {
+      "text": "red",
+      "size": 9
+    },
+    {
+      "text": "whoa",
+      "size": 9
+    },
+    {
+      "text": "around",
+      "size": 9
+    }
+  ],
+  "embarrassment": [
+    {
+      "text": "way",
+      "size": 100
+    },
+    {
+      "text": "lot",
+      "size": 82
+    },
+    {
+      "text": "love",
+      "size": 71
+    },
+    {
+      "text": "every",
+      "size": 70
+    },
+    {
+      "text": "wish",
+      "size": 66
+    },
+    {
+      "text": "youre",
+      "size": 56
+    },
+    {
+      "text": "all",
+      "size": 52
+    },
+    {
+      "text": "when",
+      "size": 51
+    },
+    {
+      "text": "knew",
+      "size": 43
+    },
+    {
+      "text": "know",
+      "size": 41
+    },
+    {
+      "text": "there",
+      "size": 40
+    },
+    {
+      "text": "then",
+      "size": 40
+    },
+    {
+      "text": "got",
+      "size": 37
+    },
+    {
+      "text": "see",
+      "size": 36
+    },
+    {
+      "text": "cause",
+      "size": 36
+    },
+    {
+      "text": "feel",
+      "size": 33
+    },
+    {
+      "text": "what",
+      "size": 32
+    },
+    {
+      "text": "not",
+      "size": 32
+    },
+    {
+      "text": "friends",
+      "size": 31
+    },
+    {
+      "text": "pen",
+      "size": 31
+    },
+    {
+      "text": "one",
+      "size": 30
+    },
+    {
+      "text": "ashamed",
+      "size": 28
+    },
+    {
+      "text": "loose",
+      "size": 27
+    },
+    {
+      "text": "ends",
+      "size": 27
+    },
+    {
+      "text": "people",
+      "size": 27
+    },
+    {
+      "text": "beckon",
+      "size": 27
+    },
+    {
+      "text": "second",
+      "size": 27
+    },
+    {
+      "text": "spend",
+      "size": 27
+    },
+    {
+      "text": "wettin",
+      "size": 27
+    },
+    {
+      "text": "letter",
+      "size": 27
+    },
+    {
+      "text": "send",
+      "size": 27
+    },
+    {
+      "text": "boy",
+      "size": 27
+    },
+    {
+      "text": "calling",
+      "size": 26
+    },
+    {
+      "text": "true",
+      "size": 25
+    },
+    {
+      "text": "girl",
+      "size": 25
+    },
+    {
+      "text": "say",
+      "size": 23
+    },
+    {
+      "text": "dont",
+      "size": 23
+    },
+    {
+      "text": "shame",
+      "size": 23
+    },
+    {
+      "text": "without",
+      "size": 23
+    },
+    {
+      "text": "time",
+      "size": 23
+    },
+    {
+      "text": "now",
+      "size": 22
+    },
+    {
+      "text": "mad",
+      "size": 22
+    },
+    {
+      "text": "tell",
+      "size": 22
+    },
+    {
+      "text": "found",
+      "size": 22
+    },
+    {
+      "text": "same",
+      "size": 21
+    },
+    {
+      "text": "face",
+      "size": 21
+    },
+    {
+      "text": "ball",
+      "size": 20
+    },
+    {
+      "text": "giving",
+      "size": 19
+    },
+    {
+      "text": "again",
+      "size": 19
+    },
+    {
+      "text": "think",
+      "size": 19
+    },
+    {
+      "text": "too",
+      "size": 19
+    },
+    {
+      "text": "just",
+      "size": 17
+    },
+    {
+      "text": "lord",
+      "size": 17
+    },
+    {
+      "text": "she",
+      "size": 17
+    },
+    {
+      "text": "take",
+      "size": 16
+    },
+    {
+      "text": "eyes",
+      "size": 16
+    },
+    {
+      "text": "crowd",
+      "size": 16
+    },
+    {
+      "text": "night",
+      "size": 16
+    },
+    {
+      "text": "ive",
+      "size": 16
+    },
+    {
+      "text": "little",
+      "size": 16
+    },
+    {
+      "text": "lover",
+      "size": 16
+    },
+    {
+      "text": "lies",
+      "size": 15
+    },
+    {
+      "text": "cant",
+      "size": 15
+    },
+    {
+      "text": "guess",
+      "size": 15
+    },
+    {
+      "text": "better",
+      "size": 15
+    },
+    {
+      "text": "away",
+      "size": 14
+    },
+    {
+      "text": "another",
+      "size": 14
+    },
+    {
+      "text": "blame",
+      "size": 14
+    },
+    {
+      "text": "youd",
+      "size": 14
+    },
+    {
+      "text": "going",
+      "size": 14
+    },
+    {
+      "text": "wait",
+      "size": 14
+    },
+    {
+      "text": "til",
+      "size": 14
+    },
+    {
+      "text": "mother",
+      "size": 14
+    },
+    {
+      "text": "her",
+      "size": 14
+    },
+    {
+      "text": "snake",
+      "size": 14
+    },
+    {
+      "text": "tough",
+      "size": 13
+    },
+    {
+      "text": "falls",
+      "size": 13
+    },
+    {
+      "text": "deaf",
+      "size": 13
+    },
+    {
+      "text": "ears",
+      "size": 13
+    },
+    {
+      "text": "hearsay",
+      "size": 13
+    },
+    {
+      "text": "boundaries",
+      "size": 13
+    },
+    {
+      "text": "black",
+      "size": 13
+    },
+    {
+      "text": "white",
+      "size": 13
+    },
+    {
+      "text": "never",
+      "size": 13
+    },
+    {
+      "text": "such",
+      "size": 13
+    },
+    {
+      "text": "quite",
+      "size": 13
+    },
+    {
+      "text": "gonna",
+      "size": 13
+    },
+    {
+      "text": "prince",
+      "size": 13
+    },
+    {
+      "text": "war",
+      "size": 12
+    },
+    {
+      "text": "knows",
+      "size": 12
+    },
+    {
+      "text": "still",
+      "size": 12
+    },
+    {
+      "text": "territory",
+      "size": 12
+    },
+    {
+      "text": "whatcha",
+      "size": 12
+    },
+    {
+      "text": "lying",
+      "size": 12
+    },
+    {
+      "text": "doublecrossed",
+      "size": 12
+    },
+    {
+      "text": "fake",
+      "size": 12
+    },
+    {
+      "text": "day",
+      "size": 11
+    },
+    {
+      "text": "days",
+      "size": 11
+    },
+    {
+      "text": "trust",
+      "size": 11
+    },
+    {
+      "text": "told",
+      "size": 11
+    }
+  ],
+  "pride": [
+    {
+      "text": "running",
+      "size": 100
+    },
+    {
+      "text": "keep",
+      "size": 90
+    },
+    {
+      "text": "while",
+      "size": 80
+    },
+    {
+      "text": "circles",
+      "size": 78
+    },
+    {
+      "text": "get",
+      "size": 63
+    },
+    {
+      "text": "around",
+      "size": 53
+    },
+    {
+      "text": "line",
+      "size": 51
+    },
+    {
+      "text": "pathetic",
+      "size": 48
+    },
+    {
+      "text": "wasted",
+      "size": 48
+    },
+    {
+      "text": "soulless",
+      "size": 48
+    },
+    {
+      "text": "compromised",
+      "size": 48
+    },
+    {
+      "text": "pride",
+      "size": 39
+    },
+    {
+      "text": "ground",
+      "size": 39
+    },
+    {
+      "text": "boondocks",
+      "size": 36
+    },
+    {
+      "text": "where",
+      "size": 31
+    },
+    {
+      "text": "pole",
+      "size": 31
+    },
+    {
+      "text": "well",
+      "size": 31
+    },
+    {
+      "text": "fishing",
+      "size": 31
+    },
+    {
+      "text": "head",
+      "size": 24
+    },
+    {
+      "text": "now",
+      "size": 21
+    },
+    {
+      "text": "told",
+      "size": 19
+    },
+    {
+      "text": "only",
+      "size": 19
+    },
+    {
+      "text": "burden",
+      "size": 19
+    },
+    {
+      "text": "bound",
+      "size": 19
+    },
+    {
+      "text": "walk",
+      "size": 19
+    },
+    {
+      "text": "higher",
+      "size": 19
+    },
+    {
+      "text": "clouds",
+      "size": 19
+    },
+    {
+      "text": "back",
+      "size": 19
+    },
+    {
+      "text": "proud",
+      "size": 17
+    },
+    {
+      "text": "crawfish",
+      "size": 17
+    },
+    {
+      "text": "hole",
+      "size": 17
+    },
+    {
+      "text": "five",
+      "size": 17
+    },
+    {
+      "text": "card",
+      "size": 17
+    },
+    {
+      "text": "poker",
+      "size": 17
+    },
+    {
+      "text": "saturday",
+      "size": 17
+    },
+    {
+      "text": "night",
+      "size": 17
+    },
+    {
+      "text": "church",
+      "size": 17
+    },
+    {
+      "text": "sunday",
+      "size": 17
+    },
+    {
+      "text": "morning",
+      "size": 17
+    },
+    {
+      "text": "know",
+      "size": 14
+    },
+    {
+      "text": "little",
+      "size": 14
+    },
+    {
+      "text": "sleepwalking",
+      "size": 14
+    },
+    {
+      "text": "minefield",
+      "size": 14
+    },
+    {
+      "text": "shit",
+      "size": 14
+    },
+    {
+      "text": "talking",
+      "size": 14
+    },
+    {
+      "text": "crumbles",
+      "size": 14
+    },
+    {
+      "text": "feel",
+      "size": 12
+    },
+    {
+      "text": "heart",
+      "size": 12
+    },
+    {
+      "text": "soul",
+      "size": 12
+    },
+    {
+      "text": "who",
+      "size": 12
+    },
+    {
+      "text": "say",
+      "size": 12
+    },
+    {
+      "text": "prayer",
+      "size": 12
+    },
+    {
+      "text": "shame",
+      "size": 9
+    },
+    {
+      "text": "came",
+      "size": 9
+    },
+    {
+      "text": "born",
+      "size": 9
+    },
+    {
+      "text": "raised",
+      "size": 9
+    },
+    {
+      "text": "one",
+      "size": 9
+    },
+    {
+      "text": "thing",
+      "size": 9
+    },
+    {
+      "text": "matter",
+      "size": 9
+    },
+    {
+      "text": "wild",
+      "size": 9
+    },
+    {
+      "text": "learned",
+      "size": 9
+    },
+    {
+      "text": "ive",
+      "size": 9
+    },
+    {
+      "text": "looking",
+      "size": 9
+    },
+    {
+      "text": "way",
+      "size": 9
+    },
+    {
+      "text": "somewhere",
+      "size": 9
+    },
+    {
+      "text": "between",
+      "size": 9
+    },
+    {
+      "text": "used",
+      "size": 9
+    },
+    {
+      "text": "comes",
+      "size": 9
+    },
+    {
+      "text": "come",
+      "size": 9
+    },
+    {
+      "text": "girls",
+      "size": 7
+    },
+    {
+      "text": "strawberries",
+      "size": 7
+    },
+    {
+      "text": "through",
+      "size": 4
+    },
+    {
+      "text": "home",
+      "size": 4
+    },
+    {
+      "text": "excuse",
+      "size": 4
+    },
+    {
+      "text": "lie",
+      "size": 4
+    },
+    {
+      "text": "found",
+      "size": 4
+    },
+    {
+      "text": "something",
+      "size": 4
+    },
+    {
+      "text": "believe",
+      "size": 4
+    },
+    {
+      "text": "guess",
+      "size": 4
+    },
+    {
+      "text": "cant",
+      "size": 4
+    },
+    {
+      "text": "imagine",
+      "size": 4
+    },
+    {
+      "text": "why",
+      "size": 4
+    },
+    {
+      "text": "three",
+      "size": 4
+    },
+    {
+      "text": "cheers",
+      "size": 4
+    },
+    {
+      "text": "what",
+      "size": 4
+    },
+    {
+      "text": "delusion",
+      "size": 4
+    },
+    {
+      "text": "denial",
+      "size": 4
+    },
+    {
+      "text": "youll",
+      "size": 4
+    },
+    {
+      "text": "drown",
+      "size": 4
+    },
+    {
+      "text": "own",
+      "size": 4
+    },
+    {
+      "text": "sympathy",
+      "size": 4
+    },
+    {
+      "text": "profound",
+      "size": 4
+    },
+    {
+      "text": "least",
+      "size": 4
+    },
+    {
+      "text": "thought",
+      "size": 4
+    },
+    {
+      "text": "time",
+      "size": 4
+    },
+    {
+      "text": "ghost",
+      "size": 4
+    },
+    {
+      "text": "blind",
+      "size": 4
+    },
+    {
+      "text": "divine",
+      "size": 4
+    },
+    {
+      "text": "current",
+      "size": 4
+    },
+    {
+      "text": "stream",
+      "size": 4
+    }
+  ]
+}

@@ -7,7 +7,7 @@
 | Leonardo Tredici | 339392 |
 
 
-[Milestone 1](Milestone%201/Lyricalytics.pdf) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
+[Milestone 1](Milestone%201/Lyricalytics.pdf) • [Milestone 2](Milestone%202) • [Milestone 3](#milestone-3)
 
 ## Milestone 1 (21st March, 5pm)
 
@@ -16,7 +16,7 @@ Please find our Milestone 1 pdf [here](Milestone%201/Lyricalytics.pdf). We have 
 
 ## Milestone 2 (18th April, 5pm)
 
-**10% of the final grade**
+Please find our Milestone 2 pdf [here](Milestone%202/Lyricalytics%20-%20-Milestone%202.pdf), and our functional project prototype (WIP website) [here](Milestone%202/lyricalytics).
 
 
 ## Milestone 3 (30th May, 5pm)

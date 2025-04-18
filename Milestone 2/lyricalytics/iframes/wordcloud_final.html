@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Emotion Word Cloud</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-cloud/1.2.5/d3.layout.cloud.min.js"></script>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+    }
+    #wordcloud {
+      margin: auto;
+      width: 800px;
+      height: 600px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Emotion Word Cloud</h1>
+  <div id="controls">
+    <label for="emotion-select">Choose an emotion:</label>
+    <select id="emotion-select"></select>
+  </div>
+  <div id="wordcloud"></div>
+
+  <script>
+    const width = 800;
+    const height = 600;
+
+    fetch('/assets/data/emotions_wordcloud_data.json')
+      .then(response => response.json())
+      .then(data => {
+        const emotionSelect = document.getElementById('emotion-select');
+        const emotions = Object.keys(data);
+
+        // Populate dropdown
+        emotions.forEach(emotion => {
+          const option = document.createElement('option');
+          option.value = emotion;
+          option.textContent = emotion;
+          emotionSelect.appendChild(option);
+        });
+
+        // Initial render
+        updateWordCloud(data[emotions[0]]);
+
+        // On emotion change
+        emotionSelect.addEventListener('change', (e) => {
+          const selectedEmotion = e.target.value;
+          updateWordCloud(data[selectedEmotion]);
+        });
+
+        function updateWordCloud(words) {
+          // Get min/max for dynamic scaling
+          const sizes = words.map(d => d.size);
+          const minSize = d3.min(sizes);
+          const maxSize = d3.max(sizes);
+
+          // Adjust to prevent flat scale if needed
+          const fontSizeScale = d3.scaleLinear()
+            .domain([minSize, maxSize === minSize ? minSize + 1 : maxSize])
+            .range([10, 60]);
+
+          d3.select("#wordcloud").selectAll("*").remove(); // Clear previous cloud
+
+          d3.layout.cloud()
+            .size([width, height])
+            .words(words)
+            .padding(5)
+            .rotate(() => 0)
+            .fontSize(d => fontSizeScale(d.size))
+            .on("end", draw)
+            .start();
+
+          function draw(words) {
+            d3.select("#wordcloud")
+              .append("svg")
+              .attr("width", width)
+              .attr("height", height)
+              .append("g")
+              .attr("transform", `translate(${width / 2}, ${height / 2})`)
+              .selectAll("text")
+              .data(words)
+              .join("text")
+              .style("font-size", d => `${d.size}px`)
+              .style("fill", () => d3.schemeCategory10[Math.floor(Math.random() * 10)])
+              .attr("text-anchor", "middle")
+              .attr("transform", d => `translate(${d.x},${d.y}) rotate(${d.rotate})`)
+              .text(d => d.text);
+          }
+        }
+      });
+  </script>
+</body>
+</html>
