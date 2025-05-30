@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Lyricalitycs</title>
+
+  <link href="assets/img/favicon.ico" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Proza+Libre:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+
+  <!-- CSS -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href="assets/css/main.css" rel="stylesheet">
+
+</head>
+
+<body class="landing-page">
+
+  <!-- Header and Nav -->
+  <header>
+    <a href="index.html" class="logo">
+      <img src="assets/img/logo.png" alt="">
+      <h1 class="sitename">Lyricalitycs</h1>
+    </a>
+    <a class="cta-btn" href="about.html">About</a>
+  </header>
+
+  <main class="main">
+
+    <!-- Landing Hero -->
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="inner cover">
+          <h1 class="cover-heading"><strong>What is the impact of song lyrics' sentiments?</strong></h1>
+          <h1 class="cover-heading">Do they affect a song's popularity and characteristics?</h1>
+          <p class="lead">We set out to find the answer, and discovered the significant link between the two!</p>
+          <p class="lead">
+            <a href="#overview" class="btn btn-lg btn-default">Let us show you how</a>
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Main Viz - Emotion Space Overview -->
+     <section id="overview" class="about section">
+      <div class="container">
+        <div class="row gy-4">
+            <h3>How much do song lyrics' emotions tell us?</h3>
+
+            <p>By applying <a href='https://www.ibm.com/think/topics/linear-discriminant-analysis'>Linear Discriminant Analysis (LDA)</a> (a technique that tries to find the best way to separate groups based on their features) to both song data (like tempo, energy, etc.) and the lyrics (turned into numeric embeddings using AI models), <strong>we can see that some emotions show up in different areas of the space</strong>.</p> 
+            
+            <p>That means songs with different emotions in their lyrics sometimes have distinct musical characteristics. However, there's still a central region where the emotions overlap, meaning many songs with different emotions still share similar features. This tells us that <strong>while lyrics' emotions don't completely explain how songs sound, they do account for some of the variation</strong>.</p>
+              
+            <p>So let's dive deeper to explore what those emotional differences mean!</p>
+
+            <div id="legend"></div>
+            <div id="overview-chart">
+              <div id="loading">Loading visualization...</div>
+              <div id="tooltip"></div>
+            </div>
+            <span style="font-size: 10px; margin: 0 auto; text-align: center;">Rotate with mouse, scroll to zoom.</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Radar Plot - Emotions + Song Features -->
+    <section class="about section" id="radar">
+      <div class="container">
+        <div class="row gy-4">
+            <h3>Do songs with different emotions have different musical characteristics?</h3>
+            <p>Let's take a closer look at how the average song features vary by song emotion. We can observe that certain emotions tend to be associated with particular ranges of energy, acousticness, valence, among others. For example:</p>
+              <ul>
+                <li>If we look at songs in the <span style="color: rgb(147, 83, 84);">Pride</span> emotion, we'll notice they always use Major scales, associated with positive-feeling songs. Their loudness and energy are also significantly above the average!</li>
+                <li>Songs in the <span style="color: rgb(179, 46, 43);">Anger</span> and <span style="color: rgb(112, 116, 45);">Disgust</span> emotions both have above-average energy while having below-average Acousticness, but <span style="color: rgb(112, 116, 45);">Disgust</span> is high in Instrumentalness while <span style="color: rgb(179, 46, 43);">Anger</span> isn't.</li>
+                <li>Songs associated with <span style="color: rgb(208, 159, 64);">Excitment</span> have a high Mode value (so they use more Major scales) as well as higher Valence (more positive lyrics). </li>
+                <!-- <li><span style="color: rgb(245, 233, 209);">Joy</span> songs have the highest Acousticness of all! </li> -->
+              </ul>              
+            <p>This corroborates our first impressions from the visualization above - <strong>song emotions are correlated with at least some non-lyrical song features!</strong></p>
+            <p>Feel free to interact with the animation to understand how each emotion differs from the average as well as each other!</p>
+
+
+          <div id="checkbox-container"></div>
+          <div id="plotly-chart" style="width: 100%; height: 660px;"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Word Cloud - Emotions + Lyric Words -->
+     <section class="about section">
+      <div class="container">
+        <div class="row gy-4">
+            <h3>How is each emotion reflected in song lyrics?</h3>
+            <p>Let's zoom in on the most common words associated with each emotion. For each song, we get rid of common and meaningless words (like "the", "and", "I", and "you"), and then we count the 100 most frequent words across all songs that belong to a given emotion. Then we can plot these words, using size to denote their frequency.</p>
+
+            <p>This allows us to see the relationship between the lyrics and the emotion the song is associated with! Specically, <strong>we can observe how language choices reflect emotional expression, as well as the themes and vocabulary trends that characterize each emotion</strong>. Additionally, this visualization allows us to verify that the inferred emotions song are relevant and reliable!
+              For example,
+              <ul>
+                <li>When it comes to <span style="color: rgb(218, 135, 152);">Love</span> songs, "love" is by far the biggest word associated with them</li>
+                <li>"Thank" is the most common word in songs related to <span style="color: rgb(200, 203, 102);">Gratitude</span>.</li>
+                <li>And "don't" shows up frequently in many negatively associated emotions, like <span style="color: rgb(138, 111, 36);">Disapproval</span>.</li>
+              </ul>
+            </p>
+
+              <!-- <p>Feel free to further explore the lyrical differences across all emotions!</p> -->
+              <!-- This approach helps in quickly grasping how language use varies across emotional contexts in music. -->
+
+          <div id="wordcloud-controls">
+            <label for="emotion-select">Choose an emotion:</label>
+            <select class="form-select" id="emotion-select">
+            </select>
+          </div>
+            <div id="wordcloud" style="width: 800px; height: 600px;"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Scatter Violing - Top Hit + Song Features -->
+    <section class="about section">
+      <div class="container">
+        <div class="row gy-4">
+            <h3>Do popular songs have distinct song features?</h3>
+
+            <p>So far, we have looked at songs' emotions, musical features, and lyrics - but there is another important characteristic we haven't yet focused on: <strong>commercial success</strong>. We now try to understand if there is a relationship between them!</p>
+
+            <p>We plot the distribution of values for all song features, and compare that against the distribution of the same features for songs which were top hits. We do not split by lyrics' emotions because we did not find meaningful differences across different emotions when it came to being a commercial success.</p>
+
+            <p>Indeed, we can observe that <strong>these dimensions do not capture what makes a song a top hit!</strong> While top hits seem to be slightly louder, and have a slightly higher danceability and duration when compared to the average song, these differences are not significant, implying that <strong>what makes a song become very popular is probably tied to extrinsic song features (e.g., artist popularity, recording agency, marketing budget)</strong> rather than the intrinsic song features we plotted below.</p>
+
+            <p>On an interesting aside, while top hits tend to also have higher popularity on Spotify, there are some which have a popularity close to 0! This is explained by the way Spotify computes popularity, which only considers songs that were recently trending, rather than across all time.</p>
+
+            <div id="violin-plot" style="width: 100%; height: 90vh;"></div>
+
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Interactive Bar - Genre + Popularity + Emotions -->
+     <section class="about section">
+      <div class="container">
+        <div class="row gy-4">
+            <h3>Going beyond song features: emotions across music genres</h3>
+
+            <p>To conclude, we focus on another way to split songs: music genres. How do emotions and commercial successes vary across song genres? We can observe that <strong>different genres have different emotional distributions, as well as different proportions of top hits</strong>.</p>
+
+            <p>In the plot below, we can observe the emotion distribution per genre as well as the count of all songs (🎵) and of top hits (🔥) in that genre. For example, <em>rock</em> has a pretty even distribution of emotions, and about 10 times more top hits than <em>country</em> music. Almost 1 in 5 <em>pop</em> songs are commercial successes - as opposed to <em>jazz</em> which doesn't have even a single one.
+            
+            You can select which genres to plot using the left genre selection boxes. What insights, whether about emotion distribution or genre popularity, can you find?</p>
+
+            <div id="stackbar-checkbox"></div>
+            <div id="stackbar-chart"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Conclusion -->
+    <section class="about section">
+      <div class="container">
+        <div class="row gy-4">
+            <h3>And so, what is the impact of song lyrics' sentiments?</h3>
+            <p>This is the question we set out to answer at the start. We have found that <strong>there is a relationship between at least some song musical characteristics and the emotion they express in their lyrics</strong>. This makes sense, as the artists likely try to make use of these features to better convey the emotion that underlies their song. However, emotions are very complex: for example, you can feel blissfully happy and you can feel a bittersweet kind of happiness. 
+              As such, the same base emotion can be expressed in many different ways, with each song featuring different nuances and variants. On top of that, emotions are subjective! 
+              Thus, <strong>it makes sense we were able to find a relationship between emotion and song characteristics, but that song emotions by themselves don't capture all the variance in song features - because sometimes different song features are used to convey different nuances of that emotion!</strong></p>
+            <p>Then, we turned to look at songs' popularity and song genres. We found that <strong>song popularity goes beyond the data we analyzed here, likely more dependent on real world popularity than song's musical characteristics</strong>.</p>
+            <p>As for song genres? They allowed us to see how the entire ecosystem comes together: <strong>how some genres are used to portray certain emotions; how other genres are more flexible with regards the song emotion, showing a fairly uniform distribution across them; and how genre is better able to predict a song's commercial success than its intrinsic characteristics or the emotions it portrays</strong>.</p>
+
+
+            <div id="stackbar-checkbox"></div>
+            <div id="stackbar-chart"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  
+  <footer id="footer" class="footer dark-background">
+    <div class="container footer-top">
+      <p>Lyricalitycs</p>
+    </div>
+  </footer>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+
+  <!-- Vendor JS Visualization Files -->
+  <script src="https://cdn.plot.ly/plotly-3.0.1.min.js"></script>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-cloud/1.2.5/d3.layout.cloud.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.121.1/examples/js/controls/OrbitControls.min.js"></script>
+
+  <!-- Main JS File -->
+  <script src="assets/js/overview.js"></script>
+  <script src="assets/js/radar.js"></script>
+  <script src="assets/js/wordcloud.js"></script>
+  <script src="assets/js/scatter.js"></script>
+  <script type="module">
+    import {Runtime, Library, Inspector} from "/assets/vendor/d3/d3_runtime.js";
+    import define from "/assets/js/stackbar.js";
+
+    new Runtime().module(define, name => {
+      if (name === "viewof genreSelection") return new Inspector(document.querySelector("#stackbar-checkbox"));
+      if (name === "chart") return new Inspector(document.querySelector("#stackbar-chart"));
+    });
+  </script>
+
+</body>
+
+</html>

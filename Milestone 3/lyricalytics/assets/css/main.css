@@ -1,0 +1,483 @@
+/* Fonts */
+:root {
+  --default-font: "Inter", "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --heading-font: "Raleway",  sans-serif;
+  --nav-font: "Inter",  sans-serif;
+}
+
+/* Colors */
+:root { 
+  --background-color: #ffffff;
+  --default-color: #090001; 
+  --heading-color: #8B8757;
+  --accent-color: #935354; 
+  --surface-color: #ffffff;
+  --contrast-color: #ffffff;
+}
+
+/* Background change colors */
+.dark-background {
+  --background-color: #090001;
+  --default-color: #ffffff;
+  --heading-color: #ffffff;
+  --surface-color: #090001;
+}
+section.dark-background {
+  background: linear-gradient(0, #0900014a 0%, #09000194 50%, #0900014a 100%);
+}
+
+/* Smooth scroll */
+:root {
+  scroll-behavior: smooth;
+}
+
+/* ******************* Generic body components ******************* */
+
+html,
+body {
+  height: 100%;
+  background-color: #fff;
+  font-family: var(--default-font); 
+  font-size: 20px;
+}
+body {
+  color: var(--default-color) !important;
+  text-align: center;
+}
+section {
+  background-color: var(--background-color);
+  color: var(--default-color) !important;
+  padding: 50px 0;
+  border-bottom: none;
+  position: relative;
+  /* border-bottom: 5px solid linear-gradient(90deg, #0900014a 0%, #09000194 50%, #0900014a 100%) !important; */
+}
+section:after {
+  content:"";
+  background: linear-gradient(90deg, #0900014a 0%, #09000194 50%, #0900014a 100%);
+  display: block;
+  height:5px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
+p {
+  margin-top: 1rem !important;
+  margin-bottom: 0 !important;
+}
+ul {
+  margin-left: 5% !important;
+}
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: 0.3s;
+}
+a:focus,
+a:hover {
+  color: #D27167;
+}
+
+footer {
+  --background-color: rgba(0, 0, 0, 0);
+  background-color: var(--background-color);
+  padding: 5px 0 20px 0;
+  font-family: "Proza Libre";
+  color: #F5E9D1;
+
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
+/* header css partially adapted from https://themewagon.github.io/Dewi/ */
+header {
+  --background-color: rgba(0, 0, 0, 0);
+  --default-color: #ffffff;
+  --heading-color: #ffffff;
+  color: var(--default-color);
+  background-color: var(--background-color);
+  padding: 20px 40px;
+  transition: all 0.5s;
+  z-index: 997;
+  align-items: center !important;
+  display: flex !important;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+
+header::before {
+  content: "";
+  background: linear-gradient(180deg, #090001, rgba(09, 00, 01, 0.75), rgba(09, 00, 01, 0.55), transparent);
+  opacity: 40%;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  height: 100%;
+  z-index: -1;
+}
+
+header .logo {
+  line-height: 1;
+  margin-right: auto !important;
+  align-items: center !important;
+  display: flex !important;
+}
+
+header .logo img {
+  max-height: 36px;
+  margin-right: 8px;
+}
+
+header .logo h1 {
+  font-size: 30px;
+  margin: 0;
+  font-family: "Proza Libre";
+  font-weight: 600;
+  color: #F5E9D1;
+  -webkit-text-stroke: 1px #090001;
+  /* color: var(--heading-color); */
+}
+
+header .cta-btn,
+header .cta-btn:focus {
+  color: var(--contrast-color);
+  font-size: 13px;
+  padding: 7px 25px;
+  margin: 0 0 0 30px;
+  border-radius: 4px;
+  transition: 0.3s;
+  text-transform: uppercase;
+  border: 2px solid var(--contrast-color);
+}
+
+header .cta-btn:hover,
+header .cta-btn:focus:hover {
+  color: var(--contrast-color);
+  background: var(--accent-color);
+  border-color: var(--accent-color);
+}
+
+@media (max-width: 1200px) {
+  header .logo {
+    order: 1;
+  }
+
+  header .cta-btn {
+    order: 2;
+    margin: 0 15px 0 0;
+    padding: 6px 15px;
+  }
+}
+
+/* ******************* Classes and specific components ******************* */
+
+.full-width {
+	left: 50%;
+	margin-left: -50vw;
+	margin-right: -50vw;
+	max-width: 100vw;
+	position: relative;
+	right: 50%;
+	width: 100vw;
+}
+
+.inner {
+  padding: 30px;
+}
+.cover {
+  padding: 0 20px;
+}
+.cover .btn-lg {
+  padding: 10px 20px;
+}
+
+.btn-default {
+  text-shadow: none; 
+  border: 1px solid #fff;
+  color: var(--contrast-color);
+}
+.btn-default:hover,
+.btn-default:focus {
+  background: var(--accent-color);
+  border-color: var(--accent-color);
+}
+
+/* Landing page Hero component */
+.hero {
+  --default-color: #ffffff;
+  --heading-color: #ffffff;
+  color: var(--default-color);
+  width: 100%;
+  min-height: 100vh;
+  position: relative;
+  padding: 80px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image:  url(/assets/img/hero-bg.jpg);
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+.hero-inner {
+  display: table-cell;
+  vertical-align: top;
+}
+.cover-container {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* ******************* Specific to Visualizations ******************* */
+
+/* Overview Plot */
+#overview #overview-chart {
+  position: relative;
+  width: 95%; 
+  overflow: hidden;
+  min-height: 600px;
+}
+#overview canvas { 
+  display: block;
+  margin-left: -100px;
+}
+#overview #tooltip {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: rgba(255,255,255,0.95);
+  border: 1px solid #ccc;
+  padding: 8px 12px;
+  font-size: 12px;
+  z-index: 1000;
+  display: none;
+  max-width: 300px;
+  pointer-events: none;
+}
+#overview #legend li button {
+  cursor: pointer;
+  display: inline-block;
+  color: var(--accent-color);
+  border: 1px solid var(--accent-color);
+  background-color: white;
+  font-size: 18px;
+  white-space: nowrap;
+  margin: 0 8px 8px 0;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  padding: 10px 15px 10px 15px;
+  border-radius: 4px;
+}
+#overview #loading {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  color: #666;
+  background: rgba(255,255,255,0.9);
+  padding: 15px 30px;
+  border-radius: 10px;
+  user-select: none;
+  z-index: 1000;
+  pointer-events: none;
+}
+
+
+#overview #legend li {
+  list-style: none;
+  display: inline-block;
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+#overview #legend li label {
+  cursor: pointer;
+  display: inline-block;
+  color: white; /* rgba(0, 0, 0, 0.8); */
+  font-size: 18px;
+  white-space: nowrap;
+  margin: 0 8px 8px 0;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-transition: all .2s;
+  -o-transition: all .2s;
+  transition: all .2s;
+  padding: 10px 40px 10px 15px;
+  border-radius: 4px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+#overview #legend li input[type="checkbox"] {
+  position: absolute;
+  opacity: 0;
+}
+
+#overview #legend li label::before { 
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  font-family: "FontAwesome";
+  font-weight: 900;
+  font-size: 24px;
+  padding: 0;
+  margin-right: 15px;
+  content: "\f1db";
+  color: rgba(0, 0, 0, 0.2);
+  -webkit-transition: -webkit-transform .3s ease-in-out;
+  transition: -webkit-transform .3s ease-in-out;
+  -o-transition: transform .3s ease-in-out;
+  transition: transform .3s ease-in-out;
+  transition: transform .3s ease-in-out, -webkit-transform .3s ease-in-out;
+  position: absolute;
+  right: 2.5px;
+  margin-top: -4px;
+}
+
+#overview #legend li input[type="checkbox"]:checked + label {
+  border: 1px solid var(--accent-color);
+  /* background-color: var(--accent-color); */
+  color: #fff;
+  -webkit-transition: all .2s;
+  -o-transition: all .2s;
+  transition: all .2s;
+}
+
+#overview #legend li input[type="checkbox"]:checked + label::before {
+  content: "\f058";
+  -webkit-transform: rotate(-360deg);
+  -ms-transform: rotate(-360deg);
+  transform: rotate(-360deg);
+  -webkit-transition: -webkit-transform .3s ease-in-out;
+  transition: -webkit-transform .3s ease-in-out;
+  -o-transition: transform .3s ease-in-out;
+  transition: transform .3s ease-in-out;
+  transition: transform .3s ease-in-out, -webkit-transform .3s ease-in-out;
+  color: #fff;
+}
+
+
+/* Radar Plot */
+#radar #checkbox-container li {
+  list-style: none;
+  display: inline-block;
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+#radar #checkbox-container li label {
+  cursor: pointer;
+  display: inline-block;
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  white-space: nowrap;
+  margin: 0 8px 8px 0;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-transition: all .2s;
+  -o-transition: all .2s;
+  transition: all .2s;
+  padding: 10px 40px 10px 15px;
+  border-radius: 4px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+#radar #checkbox-container li input[type="checkbox"] {
+  position: absolute;
+  opacity: 0;
+}
+
+#radar #checkbox-container li label::before { 
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  font-family: "FontAwesome";
+  font-weight: 900;
+  font-size: 24px;
+  padding: 0;
+  margin-right: 15px;
+  content: "\f1db";
+  color: rgba(0, 0, 0, 0.2);
+  -webkit-transition: -webkit-transform .3s ease-in-out;
+  transition: -webkit-transform .3s ease-in-out;
+  -o-transition: transform .3s ease-in-out;
+  transition: transform .3s ease-in-out;
+  transition: transform .3s ease-in-out, -webkit-transform .3s ease-in-out;
+  position: absolute;
+  right: 2.5px;
+  margin-top: -4px;
+}
+
+#radar #checkbox-container li input[type="checkbox"]:checked + label {
+  border: 1px solid var(--accent-color);
+  background-color: var(--accent-color);
+  color: #fff;
+  -webkit-transition: all .2s;
+  -o-transition: all .2s;
+  transition: all .2s;
+}
+
+#radar #checkbox-container li input[type="checkbox"]:checked + label::before {
+  content: "\f058";
+  -webkit-transform: rotate(-360deg);
+  -ms-transform: rotate(-360deg);
+  transform: rotate(-360deg);
+  -webkit-transition: -webkit-transform .3s ease-in-out;
+  transition: -webkit-transform .3s ease-in-out;
+  -o-transition: transform .3s ease-in-out;
+  transition: transform .3s ease-in-out;
+  transition: transform .3s ease-in-out, -webkit-transform .3s ease-in-out;
+  color: #fff;
+}
+
+/* Word CLoud */
+#wordcloud-controls label {
+  margin-right: 5px;
+}
+#wordcloud-controls select {
+  display: inline-block;
+  width: auto;
+}
+
+/* Stackbar Plot */
+#stackbar-checkbox {
+  display: inline-block; 
+  font-size: 10px; 
+  width: 23%;
+}
+#stackbar-chart {
+  display: inline-block; 
+  max-width: 75%;
+}
+
+/* ******************* Specific to About page ******************* */
+
+.about-page {
+  margin-top: 50px;
+}
+
+.about {
+  text-align: left !important;
+}
+.about ul {
+  margin-left: 5% !important;
+}
