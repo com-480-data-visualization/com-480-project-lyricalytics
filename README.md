@@ -21,5 +21,5 @@ Please find our [Milestone 2 pdf here](Milestone%202/Lyricalytics%20-%20Mileston
 
 ## Milestone 3 (30th May, 5pm)
   
-Please find our [Milestone 3 Process Book here](Milestone%203/Lyricalytics%20-%Process%20Book.pdf), and our [final website here](Milestone%203/lyricalytics). To run the website, you need only host this folder (e.g., using `python -m http.server` at its root), and then open `index.html` on your browser. Our [screencast](https://www.youtube.com/watch?v=zZ_w0lh865w) is hosted on youtube at https://www.youtube.com/watch?v=zZ_w0lh865w
+Please find our [Milestone 3 Process Book here](Milestone%203/Lyricalytics%20-%20Process%20Book.pdf), and our [final website here](Milestone%203/lyricalytics). To run the website, you need only host this folder (e.g., using `python -m http.server` at its root), and then open `index.html` on your browser. Our [screencast](https://www.youtube.com/watch?v=zZ_w0lh865w) is hosted on youtube at https://www.youtube.com/watch?v=zZ_w0lh865w
 
